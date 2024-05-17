@@ -1,0 +1,23 @@
+2024-05-17T15:51:19+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Own\sufsalInternational\wp-includes\class-wp-object-cache.php:146
+Stack trace:
+#0 C:\wamp64\www\Own\sufsalInternational\wp-includes\class-wp-object-cache.php(146): trim('alloptions')
+#1 C:\wamp64\www\Own\sufsalInternational\wp-includes\class-wp-object-cache.php(364): WP_Object_Cache->is_valid_key('alloptions')
+#2 C:\wamp64\www\Own\sufsalInternational\wp-includes\cache.php(154): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#3 C:\wamp64\www\Own\sufsalInternational\wp-includes\option.php(602): wp_cache_get('alloptions', 'options', false)
+#4 C:\wamp64\www\Own\sufsalInternational\wp-includes\option.php(164): wp_load_alloptions()
+#5 C:\wamp64\www\Own\sufsalInternational\wp-includes\link-template.php(3431): get_option('home')
+#6 C:\wamp64\www\Own\sufsalInternational\wp-includes\link-template.php(3409): get_home_url(NULL, '', NULL)
+#7 C:\wamp64\www\Own\sufsalInternational\wp-includes\general-template.php(818): ho in C:\wamp64\www\Own\sufsalInternational\wp-includes\class-wp-object-cache.php on line 146
+
+2024-05-17T15:53:51+00:00 CRITICAL syntax error, unexpected ')' in C:\wamp64\www\Own\sufsalInternational\wp-content\plugins\woocommerce\includes\wccom-site\rest-api\endpoints\class-wc-rest-wccom-site-ssr-controller.php on line 53
+
+2024-05-17T15:53:53+00:00 CRITICAL syntax error, unexpected ')' in C:\wamp64\www\Own\sufsalInternational\wp-content\plugins\woocommerce\includes\wccom-site\rest-api\endpoints\class-wc-rest-wccom-site-ssr-controller.php on line 53
+
+2024-05-17T15:54:13+00:00 CRITICAL syntax error, unexpected ')' in C:\wamp64\www\Own\sufsalInternational\wp-content\plugins\woocommerce\includes\wccom-site\rest-api\endpoints\class-wc-rest-wccom-site-ssr-controller.php on line 53
+
+2024-05-17T15:54:15+00:00 CRITICAL syntax error, unexpected ')' in C:\wamp64\www\Own\sufsalInternational\wp-content\plugins\woocommerce\includes\wccom-site\rest-api\endpoints\class-wc-rest-wccom-site-ssr-controller.php on line 53
+
+2024-05-17T15:54:16+00:00 CRITICAL syntax error, unexpected ')' in C:\wamp64\www\Own\sufsalInternational\wp-content\plugins\woocommerce\includes\wccom-site\rest-api\endpoints\class-wc-rest-wccom-site-ssr-controller.php on line 53
+
+2024-05-17T15:54:40+00:00 CRITICAL syntax error, unexpected ')' in C:\wamp64\www\Own\sufsalInternational\wp-content\plugins\woocommerce\includes\wccom-site\rest-api\endpoints\class-wc-rest-wccom-site-ssr-controller.php on line 53
+

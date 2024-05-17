@@ -1,0 +1,98 @@
+/*
+Theme Name:   Sufsal International
+Theme URI:    htpp://wordpress.org/themes/store-press-child/
+Description:  Sufsal International Theme
+Author:       Muhammad Irfan
+Author URI:   https://irfanali.site
+Template:     storepress
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  localhost
+*/
+
+
+/* Cart widget */
+.woocommerce-mini-cart__total {
+	display: none;
+}
+/* Cart */
+.product-price, .product-subtotal {
+	display: none !important;
+}
+/* Checkout */
+.product-total *, th.product-total {
+	display: none;
+}
+
+
+.wpr-checkout-order-review-table-inner{
+	display:none !important;
+}
+.return-to-shop,#customer_details .col-2{
+	display:none !important;
+}
+
+.product-action a,.woocommerce-checkout-payment button{
+	color:#ffffff !important;
+	background-color: #169ad8 !important;
+}
+.woocommerce-order-overview__total{
+	display:none !important;
+}
+.order_details tfoot{
+	display:none !important;
+}
+.more-container a{
+	display:none;
+}
+.woocommerce .product .product-single .product-content-outer .product-content h3 a:focus {
+    color: #004585 !important;
+}
+.woocommerce .product .product-single .product-content-outer .product-content h3 a:hover {
+    color: #004585 !important;
+}
+
+/* MessageCSS */
+.woocommerce-notices-wrapper .woocommerce-error, .woocommerce-info, .woocommerce-message {
+    background-color: #169ad8 !important;
+    color: #ffffff !important;
+
+}
+
+.elementor-element .elementor-widget-container .elementor-heading-title a svg:hover{
+	color: #004585 !important;
+}
+
+.web-hover:hover{
+	color: #004585 !important;
+}
+
+/*Chat CSs*/
+.ht_ctc_chat_greetings_box span svg{
+	background:#004585 !important;
+	color:#fff !important;
+	margin-bottom:5px !important;
+	min-height:26px !important;
+	min-width:26px !important;
+	border:1px solid #000 !important;
+}
+
+.ht_ctc_chat_greetings_box_link button{
+	background: #25D366 !important;
+	border:none !important;
+	border-radius:50px !important;
+}
+
+.post-content .post-date a, .post-content .post-date i{
+	background:#004585 !important;
+}
+
+.vf-post-items .post-content .post-content-inner .post-title a:hover, .vf-post-items .post-content .post-content-inner .post-title a:focus {
+    color: #004585 !important;
+    background:white;
+	border:1px solid #004585;
+	padding:8px;
+
+}

@@ -1,0 +1,946 @@
+0000.001 (0) Opened log file at time: Fri, 17 May 2024 16:36:11 +0000 on http://localhost/own/sufsalInternational
+0000.004 (0) UpdraftPlus WordPress backup plugin (htpp://updraftplus.com): 1.23.7 WP: 6.5.3 PHP: 8.0.26 (apache2handler, Windows NT IRFAN-PC 10.0 build 19041 (Windows 10) AMD64) MySQL: 8.0.31 (max packet size=67108864) WPLANG: en_US Server: Apache/2.4.54 (Win64) PHP/8.0.26 mod_fcgid/2.3.10-dev safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 19M | 22M) multisite: N openssl: OpenSSL 1.1.1s  1 Nov 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: 34457.3 MB
+0000.015 (0) Tasks: Backup files: 1 (schedule: fortnightly) Backup DB: 1 (schedule: fortnightly)
+0000.022 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.027 (0) Semaphore (fd, si_options) was stuck, set lock time to 2024-05-17 16:36:11
+0000.032 (0) Semaphore (fd, si_options) reset to 1
+0000.038 (0) Set semaphore last lock (fd) time to 2024-05-17 16:36:11
+0000.043 (0) Semaphore lock (fd) complete
+0000.057 (0) Backup run: resumption=0, nonce=919c6d11808a, file_nonce=919c6d11808a begun at=1715963771 (0s ago), job type=backup
+0000.066 (0) Scheduling a resumption (1) after 600 seconds (1715964371) in case this run gets aborted
+0000.100 (0) Checking if we have a zip executable available
+0000.105 (0) Creation of backups of directories: beginning
+0000.119 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0006.705 (0) Total entities for the zip file: 2084 directories, 10642 files (0 skipped as non-modified), 215.7 MB
+0006.719 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0006.868 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 100 files added (on-disk size: 389.8 KB)
+0006.919 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 200 files added (on-disk size: 389.8 KB)
+0006.970 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 300 files added (on-disk size: 389.8 KB)
+0007.022 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 400 files added (on-disk size: 389.8 KB)
+0007.075 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 500 files added (on-disk size: 389.8 KB)
+0007.134 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 600 files added (on-disk size: 389.8 KB)
+0007.183 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 700 files added (on-disk size: 389.8 KB)
+0007.234 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 800 files added (on-disk size: 389.8 KB)
+0007.281 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 900 files added (on-disk size: 389.8 KB)
+0007.328 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 1000 files added (on-disk size: 389.8 KB)
+0007.332 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (17.9 MB, 10642 files batched, 1001 (1002) added so far); re-opening (prior size: 389.8 KB)
+0018.836 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 1100 files added (on-disk size: 6645.2 KB)
+0018.888 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 1200 files added (on-disk size: 6645.2 KB)
+0018.942 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 1300 files added (on-disk size: 6645.2 KB)
+0018.992 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 1400 files added (on-disk size: 6645.2 KB)
+0019.044 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 1500 files added (on-disk size: 6645.2 KB)
+0019.095 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 1600 files added (on-disk size: 6645.2 KB)
+0019.148 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 1700 files added (on-disk size: 6645.2 KB)
+0019.209 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 1800 files added (on-disk size: 6645.2 KB)
+0019.263 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 1900 files added (on-disk size: 6645.2 KB)
+0019.287 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (26 MB, 10642 files batched, 945 (1947) added so far); re-opening (prior size: 6645.2 KB)
+0021.545 (0) A useful amount of data was added after this amount of zip processing: 3.6 s (normalised: 3.5 s, rate: 7384.4 KB/s)
+0021.552 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.5994379520416, normalised_time=3.4667502243022, max_time=21.547526836395, data points known=1, old_max_bytes=26214400, new_max_bytes=97761093)
+0021.611 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 2000 files added (on-disk size: 14106.4 KB)
+0021.674 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 2100 files added (on-disk size: 14106.4 KB)
+0021.731 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 2200 files added (on-disk size: 14106.4 KB)
+0021.790 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 2300 files added (on-disk size: 14106.4 KB)
+0021.851 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 2400 files added (on-disk size: 14106.4 KB)
+0021.907 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 2500 files added (on-disk size: 14106.4 KB)
+0021.969 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 2600 files added (on-disk size: 14106.4 KB)
+0022.058 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 2700 files added (on-disk size: 14106.4 KB)
+0022.123 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 2800 files added (on-disk size: 14106.4 KB)
+0022.186 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 2900 files added (on-disk size: 14106.4 KB)
+0022.215 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (25.7 MB, 10642 files batched, 1001 (2948) added so far); re-opening (prior size: 14106.4 KB)
+0025.147 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 3000 files added (on-disk size: 22323.2 KB)
+0025.246 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 3100 files added (on-disk size: 22323.2 KB)
+0025.343 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 3200 files added (on-disk size: 22323.2 KB)
+0025.449 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 3300 files added (on-disk size: 22323.2 KB)
+0025.515 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 3400 files added (on-disk size: 22323.2 KB)
+0025.593 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 3500 files added (on-disk size: 22323.2 KB)
+0025.675 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 3600 files added (on-disk size: 22323.2 KB)
+0025.758 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 3700 files added (on-disk size: 22323.2 KB)
+0025.833 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 3800 files added (on-disk size: 22323.2 KB)
+0025.909 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 3900 files added (on-disk size: 22323.2 KB)
+0025.949 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (39.6 MB, 10642 files batched, 1001 (3949) added so far); re-opening (prior size: 22323.2 KB)
+0030.844 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 4000 files added (on-disk size: 38781.6 KB)
+0030.958 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 4100 files added (on-disk size: 38781.6 KB)
+0031.049 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 4200 files added (on-disk size: 38781.6 KB)
+0031.123 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 4300 files added (on-disk size: 38781.6 KB)
+0031.230 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 4400 files added (on-disk size: 38781.6 KB)
+0031.328 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 4500 files added (on-disk size: 38781.6 KB)
+0031.416 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 4600 files added (on-disk size: 38781.6 KB)
+0031.513 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 4700 files added (on-disk size: 38781.6 KB)
+0031.610 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 4800 files added (on-disk size: 38781.6 KB)
+0031.690 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 4900 files added (on-disk size: 38781.6 KB)
+0031.717 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (29.5 MB, 10642 files batched, 1001 (4950) added so far); re-opening (prior size: 38781.6 KB)
+0038.365 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 5000 files added (on-disk size: 46643 KB)
+0038.465 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 5100 files added (on-disk size: 46643 KB)
+0038.531 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 5200 files added (on-disk size: 46643 KB)
+0038.598 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 5300 files added (on-disk size: 46643 KB)
+0038.665 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 5400 files added (on-disk size: 46643 KB)
+0038.738 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 5500 files added (on-disk size: 46643 KB)
+0038.808 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 5600 files added (on-disk size: 46643 KB)
+0038.873 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 5700 files added (on-disk size: 46643 KB)
+0038.958 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 5800 files added (on-disk size: 46643 KB)
+0039.026 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 5900 files added (on-disk size: 46643 KB)
+0039.066 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.3 MB, 10642 files batched, 1001 (5951) added so far); re-opening (prior size: 46643 KB)
+0041.787 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 6000 files added (on-disk size: 49815.7 KB)
+0041.842 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 6100 files added (on-disk size: 49815.7 KB)
+0041.895 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 6200 files added (on-disk size: 49815.7 KB)
+0041.944 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 6300 files added (on-disk size: 49815.7 KB)
+0042.002 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 6400 files added (on-disk size: 49815.7 KB)
+0042.066 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 6500 files added (on-disk size: 49815.7 KB)
+0042.129 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 6600 files added (on-disk size: 49815.7 KB)
+0042.193 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 6700 files added (on-disk size: 49815.7 KB)
+0042.254 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 6800 files added (on-disk size: 49815.7 KB)
+0042.332 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 6900 files added (on-disk size: 49815.7 KB)
+0042.369 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.2 MB, 10642 files batched, 1001 (6952) added so far); re-opening (prior size: 49815.7 KB)
+0043.826 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 7000 files added (on-disk size: 52278.4 KB)
+0043.889 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 7100 files added (on-disk size: 52278.4 KB)
+0043.961 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 7200 files added (on-disk size: 52278.4 KB)
+0044.026 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 7300 files added (on-disk size: 52278.4 KB)
+0044.089 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 7400 files added (on-disk size: 52278.4 KB)
+0044.157 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 7500 files added (on-disk size: 52278.4 KB)
+0044.231 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 7600 files added (on-disk size: 52278.4 KB)
+0044.295 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 7700 files added (on-disk size: 52278.4 KB)
+0044.366 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 7800 files added (on-disk size: 52278.4 KB)
+0044.454 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 7900 files added (on-disk size: 52278.4 KB)
+0044.492 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.4 MB, 10642 files batched, 1001 (7953) added so far); re-opening (prior size: 52278.4 KB)
+0046.664 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 8000 files added (on-disk size: 65901.9 KB)
+0046.769 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 8100 files added (on-disk size: 65901.9 KB)
+0046.867 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 8200 files added (on-disk size: 65901.9 KB)
+0046.937 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 8300 files added (on-disk size: 65901.9 KB)
+0047.013 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 8400 files added (on-disk size: 65901.9 KB)
+0047.080 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 8500 files added (on-disk size: 65901.9 KB)
+0047.146 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 8600 files added (on-disk size: 65901.9 KB)
+0047.239 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 8700 files added (on-disk size: 65901.9 KB)
+0047.369 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 8800 files added (on-disk size: 65901.9 KB)
+0047.503 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 8900 files added (on-disk size: 65901.9 KB)
+0047.575 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.8 MB, 10642 files batched, 1001 (8954) added so far); re-opening (prior size: 65901.9 KB)
+0048.826 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 9000 files added (on-disk size: 67694.6 KB)
+0048.968 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 9100 files added (on-disk size: 67694.6 KB)
+0049.098 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 9200 files added (on-disk size: 67694.6 KB)
+0049.204 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 9300 files added (on-disk size: 67694.6 KB)
+0049.321 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 9400 files added (on-disk size: 67694.6 KB)
+0049.501 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 9500 files added (on-disk size: 67694.6 KB)
+0049.629 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 9600 files added (on-disk size: 67694.6 KB)
+0049.745 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 9700 files added (on-disk size: 67694.6 KB)
+0049.851 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 9800 files added (on-disk size: 67694.6 KB)
+0049.986 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 9900 files added (on-disk size: 67694.6 KB)
+0050.075 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.8 MB, 10642 files batched, 1001 (9955) added so far); re-opening (prior size: 67694.6 KB)
+0053.366 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 10000 files added (on-disk size: 75708.2 KB)
+0053.553 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 10100 files added (on-disk size: 75708.2 KB)
+0053.721 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 10200 files added (on-disk size: 75708.2 KB)
+0053.929 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 10300 files added (on-disk size: 75708.2 KB)
+0054.066 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 10400 files added (on-disk size: 75708.2 KB)
+0054.209 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 10500 files added (on-disk size: 75708.2 KB)
+0054.346 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.tmp: 10600 files added (on-disk size: 75708.2 KB)
+0057.075 (0) Creating zip file manifest (backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.list-temp.tmp)
+0057.174 (0) Successfully created zip file manifest (size: 933098)
+0058.017 (0) Created plugins zip (0) - 79272.4 KB in 57.9 s (1369.7 KB/s) (sha1: ce9bc7c2d5ad106e4e8437cb69bb096cc57bca64, sha256: ebf33544d9c29043cae29f5cfd1d30f7e96bde4c243f4df68958c29afc535232)
+0058.021 (0) Deleting old temporary file: log.f44a8a71c262-browser.txt
+0058.041 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0058.044 (0) No remote despatch: user chose no remote backup service
+0058.048 (0) Recording as successfully uploaded: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip
+0058.055 (0) Deleting zip manifest (backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip.list.tmp)
+0058.063 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0058.068 (0) Number of backup sets in history: 1; groups (db): 1
+0058.071 (0) Examining (for databases) backup set with group_id=0, nonce=2f3a89780693, datestamp=1715947257 (May 17 2024 12:00:57)
+0058.075 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0058.078 (0) Number of backup sets in history: 1; groups (files): 1
+0058.081 (0) Examining (for files) backup set with nonce=2f3a89780693, datestamp=1715947257 (May 17 2024 12:00:57)
+0058.081 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0058.084 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0058.100 (0) Beginning creation of dump of themes (split every: 400 MB)
+0058.190 (0) Total entities for the zip file: 45 directories, 214 files (0 skipped as non-modified), 6.4 MB
+0058.244 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0058.302 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0058.690 (0) Creating zip file manifest (backup_2024-05-17-2136_Sufsal_international_919c6d11808a-themes.zip.list-temp.tmp)
+0058.696 (0) Successfully created zip file manifest (size: 14462)
+0058.765 (0) Created themes zip (0) - 4803.8 KB in 0.7 s (7354.5 KB/s) (sha1: 050af0e2ac0feddadf35efb9e7e2d5e1567a32c5, sha256: 5509c410194bd9823db07182ebd77af5864b3977c7b87b17df979ccedb8d52c3)
+0058.777 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0058.780 (0) No remote despatch: user chose no remote backup service
+0058.783 (0) Recording as successfully uploaded: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-themes.zip
+0058.790 (0) Deleting zip manifest (backup_2024-05-17-2136_Sufsal_international_919c6d11808a-themes.zip.list.tmp)
+0058.799 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0058.803 (0) Number of backup sets in history: 1; groups (db): 1
+0058.807 (0) Examining (for databases) backup set with group_id=0, nonce=2f3a89780693, datestamp=1715947257 (May 17 2024 12:00:57)
+0058.807 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0058.810 (0) Number of backup sets in history: 1; groups (files): 1
+0058.813 (0) Examining (for files) backup set with nonce=2f3a89780693, datestamp=1715947257 (May 17 2024 12:00:57)
+0058.814 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0058.816 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0058.836 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0058.839 (0) Looking for candidates to backup in: C:\wamp64\www\Own\sufsalInternational/wp-content/uploads
+0058.843 (0) finding files: .htaccess: adding to list (1)
+0058.846 (0) finding files: 2022: adding to list (2)
+0058.850 (0) finding files: 2023: adding to list (3)
+0058.853 (0) finding files: 2024: adding to list (4)
+0058.857 (0) finding files: elementor: adding to list (5)
+0058.860 (0) finding files: mailpoet: adding to list (6)
+0058.864 (0) finding files: smush: adding to list (7)
+0058.867 (0) finding files: smush-webp-test.png: adding to list (8)
+0058.871 (0) finding files: wc-logs: adding to list (9)
+0058.873 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (10)
+0058.877 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (11)
+0058.879 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (12)
+0058.883 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (13)
+0058.886 (0) finding files: woocommerce-placeholder-324x324.png: adding to list (14)
+0058.890 (0) finding files: woocommerce-placeholder-416x416.png: adding to list (15)
+0058.893 (0) finding files: woocommerce-placeholder-450x450.png: adding to list (16)
+0058.896 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (17)
+0058.899 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (18)
+0058.903 (0) finding files: woocommerce-placeholder.png: adding to list (19)
+0058.905 (0) finding files: woocommerce_uploads: adding to list (20)
+0058.909 (0) finding files: wp-file-manager-pro: adding to list (21)
+0058.912 (0) finding files: wpcf7_uploads: adding to list (22)
+0058.916 (0) finding files: wpforms: adding to list (23)
+0058.919 (0) finding files: wpo_wcpdf_16bf65178a340849d4e74df123f5c3e1: adding to list (24)
+0058.923 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0060.041 (0) Total entities for the zip file: 33 directories, 2164 files (0 skipped as non-modified), 93.3 MB
+0060.100 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0060.185 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0060.249 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0060.294 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0060.342 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0060.384 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0060.428 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 700 files added (on-disk size: 0 KB)
+0060.474 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 800 files added (on-disk size: 0 KB)
+0060.518 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 900 files added (on-disk size: 0 KB)
+0060.564 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0060.566 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.2 MB, 2164 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0067.444 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 1100 files added (on-disk size: 15673.9 KB)
+0067.506 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 1200 files added (on-disk size: 15673.9 KB)
+0067.573 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 1300 files added (on-disk size: 15673.9 KB)
+0067.621 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 1400 files added (on-disk size: 15673.9 KB)
+0067.668 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 1500 files added (on-disk size: 15673.9 KB)
+0067.758 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 1600 files added (on-disk size: 15673.9 KB)
+0067.892 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 1700 files added (on-disk size: 15673.9 KB)
+0067.989 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 1800 files added (on-disk size: 15673.9 KB)
+0068.038 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 1900 files added (on-disk size: 15673.9 KB)
+0068.085 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 2000 files added (on-disk size: 15673.9 KB)
+0068.090 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (69.9 MB, 2164 files batched, 1001 (2002) added so far); re-opening (prior size: 15673.9 KB)
+0076.840 (0) Zip: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.tmp: 2100 files added (on-disk size: 85808.4 KB)
+0078.510 (0) Creating zip file manifest (backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.list-temp.tmp)
+0078.527 (0) Successfully created zip file manifest (size: 105476)
+0079.494 (0) Created uploads zip (0) - 91192 KB in 20.5 s (4440.6 KB/s) (sha1: fc50d3bb8f4aa1120c2933ea271c3b7cbcb6e4ec, sha256: 670143981f83a70c3d65c51fab455bf0a2e0d3e069dc0c42fbc5adc0ea4b9e88)
+0079.511 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0079.515 (0) No remote despatch: user chose no remote backup service
+0079.519 (0) Recording as successfully uploaded: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip
+0079.526 (0) Deleting zip manifest (backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip.list.tmp)
+0079.535 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0079.539 (0) Number of backup sets in history: 1; groups (db): 1
+0079.543 (0) Examining (for databases) backup set with group_id=0, nonce=2f3a89780693, datestamp=1715947257 (May 17 2024 12:00:57)
+0079.545 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.549 (0) Number of backup sets in history: 1; groups (files): 1
+0079.552 (0) Examining (for files) backup set with nonce=2f3a89780693, datestamp=1715947257 (May 17 2024 12:00:57)
+0079.552 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.556 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0079.572 (0) Beginning backup of other directories found in the content directory (index: 0)
+0079.576 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0079.579 (0) Looking for candidates to backup in: C:\wamp64\www\Own\sufsalInternational/wp-content
+0079.583 (0) finding files: .htaccess: adding to list (1)
+0079.586 (0) finding files: fonts: adding to list (2)
+0079.590 (0) finding files: index.php: adding to list (3)
+0079.592 (0) finding files: index.php-old: adding to list (4)
+0079.597 (0) finding files: mu-plugins: adding to list (5)
+0079.600 (0) finding files: plugins: skipping: this is the plugins directory
+0079.604 (0) finding files: plugins-old: adding to list (6)
+0079.607 (0) finding files: smush-webp: adding to list (7)
+0079.611 (0) finding files: themes: skipping: this is the themes directory
+0079.613 (0) finding files: themes-old: adding to list (8)
+0079.616 (0) finding files: updraft: skipping: this is the updraft directory
+0079.620 (0) finding files: upgrade: skipping: excluded by options
+0079.625 (0) finding files: upgrade-temp-backup: adding to list (9)
+0079.629 (0) finding files: uploads: skipping: this is the uploads directory
+0079.633 (0) finding files: uploads-old: adding to list (10)
+0079.636 (0) finding files: w3tc-config: adding to list (11)
+0079.639 (0) finding files: wflogs: adding to list (12)
+0079.680 (0) Total entities for the zip file: 13 directories, 77 files (0 skipped as non-modified), 8.8 MB
+0084.415 (0) Creating zip file manifest (backup_2024-05-17-2136_Sufsal_international_919c6d11808a-others.zip.list-temp.tmp)
+0084.420 (0) Successfully created zip file manifest (size: 4154)
+0084.490 (0) Created others zip (0) - 4656.5 KB in 4.8 s (962.4 KB/s) (sha1: 6d2fc6959da319fd1572c98ab136416747e4e0f4, sha256: a3d818aa5e426c005928400627a2d2d2ff2004d9daefdcac39853949f07cd255)
+0084.502 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0084.505 (0) No remote despatch: user chose no remote backup service
+0084.509 (0) Recording as successfully uploaded: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-others.zip
+0084.516 (0) Deleting zip manifest (backup_2024-05-17-2136_Sufsal_international_919c6d11808a-others.zip.list.tmp)
+0084.523 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0084.528 (0) Number of backup sets in history: 1; groups (db): 1
+0084.530 (0) Examining (for databases) backup set with group_id=0, nonce=2f3a89780693, datestamp=1715947257 (May 17 2024 12:00:57)
+0084.534 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0084.537 (0) Number of backup sets in history: 1; groups (files): 1
+0084.541 (0) Examining (for files) backup set with nonce=2f3a89780693, datestamp=1715947257 (May 17 2024 12:00:57)
+0084.541 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0084.544 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0084.567 (0) Saving backup status to database (elements: 8)
+0084.575 (0) Beginning creation of database dump (WordPress DB)
+0084.579 (0) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+0084.624 (0) Table si_options: Total expected rows (approximate): 1192
+0084.739 (0) Table si_options: Rows added in this batch (next record: 191634): 1203 (uncompressed bytes in this segment=3166510) in 0.13 seconds
+0084.759 (0) Table si_options: finishing file(s) (2, 344.1 KB)
+0084.771 (0) Table si_users: Total expected rows (via COUNT): 2
+0084.774 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.781 (0) Table si_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1746) in 0.01 seconds
+0084.795 (0) Table si_users: finishing file(s) (2, 0.7 KB)
+0084.811 (0) Table si_usermeta: Total expected rows (via COUNT): 185
+0084.814 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.828 (0) Table si_usermeta: Rows added in this batch (next record: 315): 185 (uncompressed bytes in this segment=22233) in 0.02 seconds
+0084.847 (0) Table si_usermeta: finishing file(s) (2, 6.3 KB)
+0084.865 (0) Table si_actionscheduler_actions: Total expected rows (via COUNT): 66
+0084.869 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.880 (0) Table si_actionscheduler_actions: Rows added in this batch (next record: 17769): 66 (uncompressed bytes in this segment=26423) in 0.02 seconds
+0084.900 (0) Table si_actionscheduler_actions: finishing file(s) (2, 3 KB)
+0084.912 (0) Table si_actionscheduler_claims: Total expected rows (via COUNT): 0
+0084.919 (0) Table si_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=623) in 0.01 seconds
+0084.936 (0) Table si_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0084.949 (0) Table si_actionscheduler_groups: Total expected rows (via COUNT): 12
+0084.952 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.960 (0) Table si_actionscheduler_groups: Rows added in this batch (next record: 12): 12 (uncompressed bytes in this segment=992) in 0.01 seconds
+0084.976 (0) Table si_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0084.991 (0) Table si_actionscheduler_logs: Total expected rows (via COUNT): 188
+0084.995 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0085.007 (0) Table si_actionscheduler_logs: Rows added in this batch (next record: 52303): 188 (uncompressed bytes in this segment=18383) in 0.02 seconds
+0085.025 (0) Table si_actionscheduler_logs: finishing file(s) (2, 2.3 KB)
+0085.040 (0) Table si_commentmeta: Total expected rows (via COUNT): 0
+0085.048 (0) Table si_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=738) in 0.02 seconds
+0085.068 (0) Table si_commentmeta: finishing file(s) (2, 0.4 KB)
+0085.081 (0) Table si_comments: Total expected rows (via COUNT): 9
+0085.086 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0085.094 (0) Table si_comments: Rows added in this batch (next record: 31): 9 (uncompressed bytes in this segment=4228) in 0.02 seconds
+0085.110 (0) Table si_comments: finishing file(s) (2, 1.2 KB)
+0085.122 (0) Table si_links: Total expected rows (via COUNT): 0
+0085.131 (0) Table si_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1496) in 0.01 seconds
+0085.147 (0) Table si_links: finishing file(s) (2, 0.5 KB)
+0085.193 (0) Table si_postmeta: Total expected rows (approximate): 20253
+0085.656 (0) Table si_postmeta: Rows added in this batch (next record: 23107): 19431 (uncompressed bytes in this segment=8521841) in 0.50 seconds
+0085.676 (0) Table si_postmeta: finishing file(s) (2, 437.7 KB)
+0085.715 (0) Table si_posts: Total expected rows (approximate): 1372
+0086.014 (0) Table si_posts: Rows added in this batch (next record: 2040): 1669 (uncompressed bytes in this segment=8502145) in 0.33 seconds
+0086.034 (0) Table si_posts: finishing file(s) (2, 413.2 KB)
+0086.045 (0) Table si_term_relationships: Total expected rows (approximate): 2618
+0086.101 (0) Table si_term_relationships: Rows added in this batch (next record: 100000): 2618 (uncompressed bytes in this segment=43152) in 0.06 seconds
+0086.118 (0) Table si_term_relationships: finishing file(s) (2, 6.9 KB)
+0086.139 (0) Table si_term_taxonomy: Total expected rows (via COUNT): 302
+0086.143 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.159 (0) Table si_term_taxonomy: Rows added in this batch (next record: 321): 302 (uncompressed bytes in this segment=12443) in 0.03 seconds
+0086.179 (0) Table si_term_taxonomy: finishing file(s) (2, 2.4 KB)
+0086.197 (0) Table si_termmeta: Total expected rows (via COUNT): 425
+0086.200 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.213 (0) Table si_termmeta: Rows added in this batch (next record: 482): 425 (uncompressed bytes in this segment=18233) in 0.03 seconds
+0086.232 (0) Table si_termmeta: finishing file(s) (2, 3 KB)
+0086.246 (0) Table si_terms: Total expected rows (via COUNT): 302
+0086.251 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.260 (0) Table si_terms: Rows added in this batch (next record: 321): 302 (uncompressed bytes in this segment=20589) in 0.02 seconds
+0086.277 (0) Table si_terms: finishing file(s) (2, 4.2 KB)
+0086.288 (0) Table si_wc_category_lookup: Total expected rows (approximate): 94
+0086.297 (0) Table si_wc_category_lookup: Rows added in this batch (next record: 1000): 94 (uncompressed bytes in this segment=1692) in 0.01 seconds
+0086.312 (0) Table si_wc_category_lookup: finishing file(s) (2, 0.6 KB)
+0086.326 (0) Table si_wc_product_meta_lookup: Total expected rows (via COUNT): 341
+0086.330 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.355 (0) Table si_wc_product_meta_lookup: Rows added in this batch (next record: 1801): 341 (uncompressed bytes in this segment=33793) in 0.03 seconds
+0086.371 (0) Table si_wc_product_meta_lookup: finishing file(s) (2, 2.7 KB)
+0086.382 (0) Table si_wc_reserved_stock: Total expected rows (approximate): 0
+0086.388 (0) Table si_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=657) in 0.01 seconds
+0086.402 (0) Table si_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0086.416 (0) Table si_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0086.418 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.426 (0) Table si_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=852) in 0.01 seconds
+0086.442 (0) Table si_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0086.459 (0) Table si_woocommerce_order_itemmeta: Total expected rows (via COUNT): 123
+0086.461 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.470 (0) Table si_woocommerce_order_itemmeta: Rows added in this batch (next record: 627): 123 (uncompressed bytes in this segment=5603) in 0.02 seconds
+0086.487 (0) Table si_woocommerce_order_itemmeta: finishing file(s) (2, 1.4 KB)
+0086.503 (0) Table si_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0086.509 (0) Table si_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=834) in 0.01 seconds
+0086.528 (0) Table si_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0086.544 (0) Table si_aioseo_cache: Total expected rows (via COUNT): 14
+0086.546 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.555 (0) Table si_aioseo_cache: Rows added in this batch (next record: 349): 14 (uncompressed bytes in this segment=14648) in 0.02 seconds
+0086.573 (0) Table si_aioseo_cache: finishing file(s) (2, 3.1 KB)
+0086.592 (0) Table si_aioseo_notifications: Total expected rows (via COUNT): 24
+0086.594 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.606 (0) Table si_aioseo_notifications: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=112500) in 0.02 seconds
+0086.624 (0) Table si_aioseo_notifications: finishing file(s) (2, 72.7 KB)
+0086.642 (0) Table si_aioseo_posts: Total expected rows (via COUNT): 761
+0086.827 (0) Table si_aioseo_posts: Rows added in this batch (next record: 779): 761 (uncompressed bytes in this segment=945337) in 0.19 seconds
+0086.845 (0) Table si_aioseo_posts: finishing file(s) (2, 19.7 KB)
+0086.856 (0) Table si_cf7_data: Total expected rows (approximate): 1862
+0086.882 (0) Table si_cf7_data: Rows added in this batch (next record: 1862): 1862 (uncompressed bytes in this segment=59042) in 0.03 seconds
+0086.899 (0) Table si_cf7_data: finishing file(s) (2, 13.4 KB)
+0086.911 (0) Table si_cf7_data_entry: Total expected rows (approximate): 14248
+0087.221 (0) Table si_cf7_data_entry: Rows added in this batch (next record: 14716): 14716 (uncompressed bytes in this segment=934164) in 0.31 seconds
+0087.241 (0) Table si_cf7_data_entry: finishing file(s) (2, 179 KB)
+0087.255 (0) Table si_e_events: Total expected rows (via COUNT): 8
+0087.258 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.267 (0) Table si_e_events: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=2182) in 0.02 seconds
+0087.283 (0) Table si_e_events: finishing file(s) (2, 0.7 KB)
+0087.300 (0) Table si_mailpoet_automation_run_logs: Total expected rows (via COUNT): 0
+0087.308 (0) Table si_mailpoet_automation_run_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1064) in 0.02 seconds
+0087.337 (0) Table si_mailpoet_automation_run_logs: finishing file(s) (2, 0.4 KB)
+0087.366 (0) Table si_mailpoet_automation_runs: Total expected rows (via COUNT): 0
+0087.371 (0) Table si_mailpoet_automation_runs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1105) in 0.01 seconds
+0087.406 (0) Table si_mailpoet_automation_runs: finishing file(s) (2, 0.5 KB)
+0087.418 (0) Table si_mailpoet_automation_triggers: Total expected rows (approximate): 0
+0087.422 (0) Table si_mailpoet_automation_triggers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=628) in 0.01 seconds
+0087.438 (0) Table si_mailpoet_automation_triggers: finishing file(s) (2, 0.3 KB)
+0087.467 (0) Table si_mailpoet_automation_versions: Total expected rows (via COUNT): 0
+0087.470 (0) Table si_mailpoet_automation_versions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=803) in 0.02 seconds
+0087.498 (0) Table si_mailpoet_automation_versions: finishing file(s) (2, 0.4 KB)
+0087.512 (0) Table si_mailpoet_automations: Total expected rows (via COUNT): 0
+0087.516 (0) Table si_mailpoet_automations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=890) in 0.01 seconds
+0087.532 (0) Table si_mailpoet_automations: finishing file(s) (2, 0.4 KB)
+0087.549 (0) Table si_mailpoet_custom_fields: Total expected rows (via COUNT): 0
+0087.554 (0) Table si_mailpoet_custom_fields: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=893) in 0.01 seconds
+0087.573 (0) Table si_mailpoet_custom_fields: finishing file(s) (2, 0.4 KB)
+0087.584 (0) Table si_mailpoet_dynamic_segment_filters: Total expected rows (via COUNT): 0
+0087.589 (0) Table si_mailpoet_dynamic_segment_filters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=958) in 0.01 seconds
+0087.604 (0) Table si_mailpoet_dynamic_segment_filters: finishing file(s) (2, 0.4 KB)
+0087.615 (0) Table si_mailpoet_feature_flags: Total expected rows (via COUNT): 0
+0087.619 (0) Table si_mailpoet_feature_flags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=762) in 0.01 seconds
+0087.633 (0) Table si_mailpoet_feature_flags: finishing file(s) (2, 0.4 KB)
+0087.647 (0) Table si_mailpoet_forms: Total expected rows (via COUNT): 0
+0087.651 (0) Table si_mailpoet_forms: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1018) in 0.01 seconds
+0087.668 (0) Table si_mailpoet_forms: finishing file(s) (2, 0.4 KB)
+0087.682 (0) Table si_mailpoet_log: Total expected rows (via COUNT): 0
+0087.684 (0) Table si_mailpoet_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=675) in 0.01 seconds
+0087.703 (0) Table si_mailpoet_log: finishing file(s) (2, 0.4 KB)
+0087.714 (0) Table si_mailpoet_migrations: Total expected rows (via COUNT): 5
+0087.717 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.723 (0) Table si_mailpoet_migrations: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1338) in 0.01 seconds
+0087.737 (0) Table si_mailpoet_migrations: finishing file(s) (2, 0.6 KB)
+0087.747 (0) Table si_mailpoet_newsletter_links: Total expected rows (via COUNT): 0
+0087.754 (0) Table si_mailpoet_newsletter_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=974) in 0.01 seconds
+0087.769 (0) Table si_mailpoet_newsletter_links: finishing file(s) (2, 0.4 KB)
+0087.782 (0) Table si_mailpoet_newsletter_option: Total expected rows (via COUNT): 0
+0087.786 (0) Table si_mailpoet_newsletter_option: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=875) in 0.01 seconds
+0087.803 (0) Table si_mailpoet_newsletter_option: finishing file(s) (2, 0.4 KB)
+0087.813 (0) Table si_mailpoet_newsletter_option_fields: Total expected rows (via COUNT): 24
+0087.815 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.822 (0) Table si_mailpoet_newsletter_option_fields: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=2566) in 0.01 seconds
+0087.838 (0) Table si_mailpoet_newsletter_option_fields: finishing file(s) (2, 0.7 KB)
+0087.851 (0) Table si_mailpoet_newsletter_posts: Total expected rows (via COUNT): 0
+0087.857 (0) Table si_mailpoet_newsletter_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=747) in 0.01 seconds
+0087.873 (0) Table si_mailpoet_newsletter_posts: finishing file(s) (2, 0.4 KB)
+0087.884 (0) Table si_mailpoet_newsletter_segment: Total expected rows (via COUNT): 0
+0087.888 (0) Table si_mailpoet_newsletter_segment: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=787) in 0.01 seconds
+0087.904 (0) Table si_mailpoet_newsletter_segment: finishing file(s) (2, 0.4 KB)
+0087.920 (0) Table si_mailpoet_newsletter_templates: Total expected rows (via COUNT): 76
+0087.922 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.953 (0) Table si_mailpoet_newsletter_templates: Rows added in this batch (next record: 76): 76 (uncompressed bytes in this segment=1118170) in 0.04 seconds
+0087.971 (0) Table si_mailpoet_newsletter_templates: finishing file(s) (2, 67 KB)
+0087.986 (0) Table si_mailpoet_newsletters: Total expected rows (via COUNT): 1
+0087.989 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.995 (0) Table si_mailpoet_newsletters: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=12041) in 0.02 seconds
+0088.013 (0) Table si_mailpoet_newsletters: finishing file(s) (2, 2.2 KB)
+0088.025 (0) Table si_mailpoet_scheduled_task_subscribers: Total expected rows (approximate): 0
+0088.032 (0) Table si_mailpoet_scheduled_task_subscribers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=922) in 0.01 seconds
+0088.048 (0) Table si_mailpoet_scheduled_task_subscribers: finishing file(s) (2, 0.4 KB)
+0088.067 (0) Table si_mailpoet_scheduled_tasks: Total expected rows (via COUNT): 17
+0088.070 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.078 (0) Table si_mailpoet_scheduled_tasks: Rows added in this batch (next record: 17): 17 (uncompressed bytes in this segment=3929) in 0.02 seconds
+0088.100 (0) Table si_mailpoet_scheduled_tasks: finishing file(s) (2, 1 KB)
+0088.114 (0) Table si_mailpoet_segments: Total expected rows (via COUNT): 3
+0088.118 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.122 (0) Table si_mailpoet_segments: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1796) in 0.01 seconds
+0088.138 (0) Table si_mailpoet_segments: finishing file(s) (2, 0.7 KB)
+0088.152 (0) Table si_mailpoet_sending_queues: Total expected rows (via COUNT): 0
+0088.158 (0) Table si_mailpoet_sending_queues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1329) in 0.01 seconds
+0088.176 (0) Table si_mailpoet_sending_queues: finishing file(s) (2, 0.5 KB)
+0088.192 (0) Table si_mailpoet_settings: Total expected rows (via COUNT): 23
+0088.195 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.203 (0) Table si_mailpoet_settings: Rows added in this batch (next record: 34): 23 (uncompressed bytes in this segment=4521) in 0.02 seconds
+0088.221 (0) Table si_mailpoet_settings: finishing file(s) (2, 1.5 KB)
+0088.235 (0) Table si_mailpoet_statistics_bounces: Total expected rows (via COUNT): 0
+0088.241 (0) Table si_mailpoet_statistics_bounces: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=688) in 0.01 seconds
+0088.256 (0) Table si_mailpoet_statistics_bounces: finishing file(s) (2, 0.4 KB)
+0088.268 (0) Table si_mailpoet_statistics_clicks: Total expected rows (via COUNT): 0
+0088.271 (0) Table si_mailpoet_statistics_clicks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1097) in 0.01 seconds
+0088.288 (0) Table si_mailpoet_statistics_clicks: finishing file(s) (2, 0.5 KB)
+0088.303 (0) Table si_mailpoet_statistics_forms: Total expected rows (via COUNT): 0
+0088.306 (0) Table si_mailpoet_statistics_forms: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=694) in 0.01 seconds
+0088.324 (0) Table si_mailpoet_statistics_forms: finishing file(s) (2, 0.4 KB)
+0088.337 (0) Table si_mailpoet_statistics_newsletters: Total expected rows (via COUNT): 0
+0088.340 (0) Table si_mailpoet_statistics_newsletters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=815) in 0.01 seconds
+0088.357 (0) Table si_mailpoet_statistics_newsletters: finishing file(s) (2, 0.4 KB)
+0088.373 (0) Table si_mailpoet_statistics_opens: Total expected rows (via COUNT): 0
+0088.377 (0) Table si_mailpoet_statistics_opens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1051) in 0.01 seconds
+0088.397 (0) Table si_mailpoet_statistics_opens: finishing file(s) (2, 0.5 KB)
+0088.409 (0) Table si_mailpoet_statistics_unsubscribes: Total expected rows (via COUNT): 0
+0088.413 (0) Table si_mailpoet_statistics_unsubscribes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1158) in 0.01 seconds
+0088.428 (0) Table si_mailpoet_statistics_unsubscribes: finishing file(s) (2, 0.5 KB)
+0088.441 (0) Table si_mailpoet_statistics_woocommerce_purchases: Total expected rows (via COUNT): 0
+0088.445 (0) Table si_mailpoet_statistics_woocommerce_purchases: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1270) in 0.01 seconds
+0088.461 (0) Table si_mailpoet_statistics_woocommerce_purchases: finishing file(s) (2, 0.5 KB)
+0088.471 (0) Table si_mailpoet_stats_notifications: Total expected rows (via COUNT): 0
+0088.474 (0) Table si_mailpoet_stats_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=819) in 0.01 seconds
+0088.488 (0) Table si_mailpoet_stats_notifications: finishing file(s) (2, 0.4 KB)
+0088.499 (0) Table si_mailpoet_subscriber_custom_field: Total expected rows (via COUNT): 0
+0088.503 (0) Table si_mailpoet_subscriber_custom_field: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=916) in 0.01 seconds
+0088.517 (0) Table si_mailpoet_subscriber_custom_field: finishing file(s) (2, 0.4 KB)
+0088.528 (0) Table si_mailpoet_subscriber_ips: Total expected rows (approximate): 0
+0088.530 (0) Table si_mailpoet_subscriber_ips: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=615) in 0.00 seconds
+0088.546 (0) Table si_mailpoet_subscriber_ips: finishing file(s) (2, 0.4 KB)
+0088.556 (0) Table si_mailpoet_subscriber_segment: Total expected rows (via COUNT): 7
+0088.559 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.565 (0) Table si_mailpoet_subscriber_segment: Rows added in this batch (next record: 10): 7 (uncompressed bytes in this segment=1514) in 0.01 seconds
+0088.582 (0) Table si_mailpoet_subscriber_segment: finishing file(s) (2, 0.5 KB)
+0088.596 (0) Table si_mailpoet_subscriber_tag: Total expected rows (via COUNT): 0
+0088.605 (0) Table si_mailpoet_subscriber_tag: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=778) in 0.01 seconds
+0088.622 (0) Table si_mailpoet_subscriber_tag: finishing file(s) (2, 0.4 KB)
+0088.640 (0) Table si_mailpoet_subscribers: Total expected rows (via COUNT): 6
+0088.642 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.650 (0) Table si_mailpoet_subscribers: Rows added in this batch (next record: 7): 6 (uncompressed bytes in this segment=4219) in 0.02 seconds
+0088.671 (0) Table si_mailpoet_subscribers: finishing file(s) (2, 1.1 KB)
+0088.682 (0) Table si_mailpoet_tags: Total expected rows (via COUNT): 0
+0088.689 (0) Table si_mailpoet_tags: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=757) in 0.01 seconds
+0088.704 (0) Table si_mailpoet_tags: finishing file(s) (2, 0.4 KB)
+0088.718 (0) Table si_mailpoet_user_agents: Total expected rows (via COUNT): 0
+0088.721 (0) Table si_mailpoet_user_agents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=797) in 0.01 seconds
+0088.740 (0) Table si_mailpoet_user_agents: finishing file(s) (2, 0.4 KB)
+0088.752 (0) Table si_mailpoet_user_flags: Total expected rows (via COUNT): 1
+0088.755 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.760 (0) Table si_mailpoet_user_flags: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=990) in 0.01 seconds
+0088.777 (0) Table si_mailpoet_user_flags: finishing file(s) (2, 0.5 KB)
+0088.787 (0) Table si_smush_dir_images: Total expected rows (via COUNT): 0
+0088.793 (0) Table si_smush_dir_images: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.01 seconds
+0088.808 (0) Table si_smush_dir_images: finishing file(s) (2, 0.5 KB)
+0088.825 (0) Table si_wc_admin_note_actions: Total expected rows (via COUNT): 185
+0088.827 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.842 (0) Table si_wc_admin_note_actions: Rows added in this batch (next record: 27795): 185 (uncompressed bytes in this segment=37810) in 0.02 seconds
+0088.860 (0) Table si_wc_admin_note_actions: finishing file(s) (2, 5.8 KB)
+0088.881 (0) Table si_wc_admin_notes: Total expected rows (via COUNT): 144
+0088.884 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.898 (0) Table si_wc_admin_notes: Rows added in this batch (next record: 147): 144 (uncompressed bytes in this segment=67069) in 0.03 seconds
+0088.919 (0) Table si_wc_admin_notes: finishing file(s) (2, 13.5 KB)
+0088.931 (0) Table si_wc_customer_lookup: Total expected rows (via COUNT): 2
+0088.935 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.942 (0) Table si_wc_customer_lookup: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=1727) in 0.01 seconds
+0088.958 (0) Table si_wc_customer_lookup: finishing file(s) (2, 0.6 KB)
+0088.970 (0) Table si_wc_download_log: Total expected rows (via COUNT): 0
+0088.982 (0) Table si_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=757) in 0.02 seconds
+0088.999 (0) Table si_wc_download_log: finishing file(s) (2, 0.4 KB)
+0089.011 (0) Table si_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0089.015 (0) Table si_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=709) in 0.01 seconds
+0089.031 (0) Table si_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0089.044 (0) Table si_wc_order_product_lookup: Total expected rows (via COUNT): 9
+0089.047 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0089.055 (0) Table si_wc_order_product_lookup: Rows added in this batch (next record: 76): 9 (uncompressed bytes in this segment=1980) in 0.01 seconds
+0089.071 (0) Table si_wc_order_product_lookup: finishing file(s) (2, 0.6 KB)
+0089.083 (0) Table si_wc_order_stats: Total expected rows (via COUNT): 7
+0089.086 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0089.089 (0) Table si_wc_order_stats: Rows added in this batch (next record: 1951): 7 (uncompressed bytes in this segment=2330) in 0.01 seconds
+0089.106 (0) Table si_wc_order_stats: finishing file(s) (2, 0.7 KB)
+0089.116 (0) Table si_wc_order_tax_lookup: Total expected rows (approximate): 0
+0089.122 (0) Table si_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=791) in 0.01 seconds
+0089.139 (0) Table si_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0089.150 (0) Table si_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0089.153 (0) Table si_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=872) in 0.01 seconds
+0089.170 (0) Table si_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0089.181 (0) Table si_wc_product_download_directories: Total expected rows (via COUNT): 2
+0089.184 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0089.192 (0) Table si_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=975) in 0.01 seconds
+0089.207 (0) Table si_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0089.222 (0) Table si_wc_rate_limits: Total expected rows (via COUNT): 0
+0089.229 (0) Table si_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=710) in 0.01 seconds
+0089.246 (0) Table si_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0089.258 (0) Table si_wc_webhooks: Total expected rows (via COUNT): 0
+0089.262 (0) Table si_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1325) in 0.01 seconds
+0089.278 (0) Table si_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0089.289 (0) Table si_wcpdf_invoice_number: Total expected rows (via COUNT): 8
+0089.292 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0089.298 (0) Table si_wcpdf_invoice_number: Rows added in this batch (next record: 1107): 8 (uncompressed bytes in this segment=1000) in 0.01 seconds
+0089.313 (0) Table si_wcpdf_invoice_number: finishing file(s) (2, 0.5 KB)
+0089.323 (0) Table si_wcpdf_packing_slip_number: Total expected rows (via COUNT): 0
+0089.329 (0) Table si_wcpdf_packing_slip_number: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=617) in 0.01 seconds
+0089.345 (0) Table si_wcpdf_packing_slip_number: finishing file(s) (2, 0.4 KB)
+0089.357 (0) Table si_wfblockediplog: Total expected rows (approximate): 0
+0089.362 (0) Table si_wfblockediplog: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=624) in 0.01 seconds
+0089.383 (0) Table si_wfblockediplog: finishing file(s) (2, 0.4 KB)
+0089.393 (0) Table si_wfblocks7: Total expected rows (via COUNT): 0
+0089.397 (0) Table si_wfblocks7: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=809) in 0.01 seconds
+0089.410 (0) Table si_wfblocks7: finishing file(s) (2, 0.4 KB)
+0089.421 (0) Table si_wfconfig: Total expected rows (approximate): 270
+0089.481 (0) Table si_wfconfig: Rows added in this batch (next record: 1000): 272 (uncompressed bytes in this segment=885011) in 0.06 seconds
+0089.496 (0) Table si_wfconfig: finishing file(s) (2, 442 KB)
+0089.507 (0) Table si_wfcrawlers: Total expected rows (approximate): 0
+0089.510 (0) Table si_wfcrawlers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=551) in 0.01 seconds
+0089.526 (0) Table si_wfcrawlers: finishing file(s) (2, 0.3 KB)
+0089.536 (0) Table si_wffilechanges: Total expected rows (approximate): 0
+0089.539 (0) Table si_wffilechanges: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=455) in 0.01 seconds
+0089.556 (0) Table si_wffilechanges: finishing file(s) (2, 0.3 KB)
+0089.568 (0) Table si_wffilemods: Total expected rows (approximate): 26871
+0091.052 (0) Table si_wffilemods: Rows added in this batch (next record: 36000): 28132 (uncompressed bytes in this segment=12174878) in 1.49 seconds
+0091.072 (0) Table si_wffilemods: finishing file(s) (2, 3083.3 KB)
+0091.084 (0) Table si_wfhits: Total expected rows (via COUNT): 2
+0091.087 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0091.094 (0) Table si_wfhits: Rows added in this batch (next record: 3765): 2 (uncompressed bytes in this segment=1747) in 0.01 seconds
+0091.110 (0) Table si_wfhits: finishing file(s) (2, 0.8 KB)
+0091.122 (0) Table si_wfhoover: Total expected rows (via COUNT): 0
+0091.129 (0) Table si_wfhoover: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=475) in 0.01 seconds
+0091.146 (0) Table si_wfhoover: finishing file(s) (2, 0.3 KB)
+0091.159 (0) Table si_wfissues: Total expected rows (via COUNT): 19
+0091.163 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0091.173 (0) Table si_wfissues: Rows added in this batch (next record: 5295): 19 (uncompressed bytes in this segment=26400) in 0.02 seconds
+0091.190 (0) Table si_wfissues: finishing file(s) (2, 5.7 KB)
+0091.201 (0) Table si_wfknownfilelist: Total expected rows (approximate): 28775
+0091.743 (0) Table si_wfknownfilelist: Rows added in this batch (next record: 28132): 28132 (uncompressed bytes in this segment=6987009) in 0.54 seconds
+0091.761 (0) Table si_wfknownfilelist: finishing file(s) (2, 410.1 KB)
+0091.773 (0) Table si_wflivetraffichuman: Total expected rows (approximate): 0
+0091.778 (0) Table si_wflivetraffichuman: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=647) in 0.01 seconds
+0091.792 (0) Table si_wflivetraffichuman: finishing file(s) (2, 0.3 KB)
+0091.804 (0) Table si_wflocs: Total expected rows (approximate): 0
+0091.806 (0) Table si_wflocs: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=678) in 0.00 seconds
+0091.823 (0) Table si_wflocs: finishing file(s) (2, 0.4 KB)
+0091.833 (0) Table si_wflogins: Total expected rows (approximate): 1307
+0091.892 (0) Table si_wflogins: Rows added in this batch (next record: 1307): 1307 (uncompressed bytes in this segment=259164) in 0.06 seconds
+0091.908 (0) Table si_wflogins: finishing file(s) (2, 33.3 KB)
+0091.919 (0) Table si_wfls_2fa_secrets: Total expected rows (via COUNT): 1
+0091.921 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0091.929 (0) Table si_wfls_2fa_secrets: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=904) in 0.01 seconds
+0091.946 (0) Table si_wfls_2fa_secrets: finishing file(s) (2, 0.5 KB)
+0091.957 (0) Table si_wfls_role_counts: Total expected rows (approximate): 0
+0091.966 (0) Table si_wfls_role_counts: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=574) in 0.01 seconds
+0091.981 (0) Table si_wfls_role_counts: finishing file(s) (2, 0.4 KB)
+0091.992 (0) Table si_wfls_settings: Total expected rows (approximate): 34
+0091.997 (0) Table si_wfls_settings: Rows added in this batch (next record: 1000): 34 (uncompressed bytes in this segment=2272) in 0.01 seconds
+0092.012 (0) Table si_wfls_settings: finishing file(s) (2, 0.9 KB)
+0092.023 (0) Table si_wfnotifications: Total expected rows (approximate): 11
+0092.028 (0) Table si_wfnotifications: Rows added in this batch (next record: 1000): 11 (uncompressed bytes in this segment=3260) in 0.01 seconds
+0092.043 (0) Table si_wfnotifications: finishing file(s) (2, 1.1 KB)
+0092.056 (0) Table si_wfpendingissues: Total expected rows (via COUNT): 0
+0092.059 (0) Table si_wfpendingissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=834) in 0.01 seconds
+0092.077 (0) Table si_wfpendingissues: finishing file(s) (2, 0.4 KB)
+0092.087 (0) Table si_wfreversecache: Total expected rows (approximate): 0
+0092.091 (0) Table si_wfreversecache: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=598) in 0.01 seconds
+0092.105 (0) Table si_wfreversecache: finishing file(s) (2, 0.4 KB)
+0092.116 (0) Table si_wfsnipcache: Total expected rows (via COUNT): 0
+0092.120 (0) Table si_wfsnipcache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=712) in 0.01 seconds
+0092.135 (0) Table si_wfsnipcache: finishing file(s) (2, 0.4 KB)
+0092.147 (0) Table si_wfstatus: Total expected rows (via COUNT): 942
+0092.172 (0) Table si_wfstatus: Rows added in this batch (next record: 124953): 942 (uncompressed bytes in this segment=101362) in 0.03 seconds
+0092.190 (0) Table si_wfstatus: finishing file(s) (2, 15.9 KB)
+0092.200 (0) Table si_wftrafficrates: Total expected rows (approximate): 0
+0092.203 (0) Table si_wftrafficrates: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=561) in 0.00 seconds
+0092.218 (0) Table si_wftrafficrates: finishing file(s) (2, 0.3 KB)
+0092.232 (0) Table si_wfwaffailures: Total expected rows (via COUNT): 0
+0092.236 (0) Table si_wfwaffailures: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=522) in 0.01 seconds
+0092.250 (0) Table si_wfwaffailures: finishing file(s) (2, 0.3 KB)
+0092.266 (0) Table si_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0092.269 (0) Table si_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1170) in 0.01 seconds
+0092.289 (0) Table si_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0092.299 (0) Table si_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0092.302 (0) Table si_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1042) in 0.01 seconds
+0092.318 (0) Table si_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0092.328 (0) Table si_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0092.331 (0) Table si_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1606) in 0.01 seconds
+0092.348 (0) Table si_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0092.363 (0) Table si_woocommerce_log: Total expected rows (via COUNT): 0
+0092.365 (0) Table si_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=781) in 0.01 seconds
+0092.385 (0) Table si_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0092.397 (0) Table si_woocommerce_order_items: Total expected rows (via COUNT): 16
+0092.401 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0092.407 (0) Table si_woocommerce_order_items: Rows added in this batch (next record: 77): 16 (uncompressed bytes in this segment=1564) in 0.01 seconds
+0092.423 (0) Table si_woocommerce_order_items: finishing file(s) (2, 0.6 KB)
+0092.434 (0) Table si_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0092.440 (0) Table si_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=899) in 0.01 seconds
+0092.456 (0) Table si_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0092.471 (0) Table si_woocommerce_sessions: Total expected rows (via COUNT): 1
+0092.474 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0092.482 (0) Table si_woocommerce_sessions: Rows added in this batch (next record: 31249): 1 (uncompressed bytes in this segment=3780) in 0.02 seconds
+0092.503 (0) Table si_woocommerce_sessions: finishing file(s) (2, 1.4 KB)
+0092.514 (0) Table si_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0092.520 (0) Table si_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=956) in 0.01 seconds
+0092.535 (0) Table si_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0092.548 (0) Table si_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 1
+0092.550 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0092.557 (0) Table si_woocommerce_shipping_zone_methods: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=891) in 0.01 seconds
+0092.574 (0) Table si_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0092.586 (0) Table si_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0092.593 (0) Table si_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=664) in 0.01 seconds
+0092.607 (0) Table si_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0092.618 (0) Table si_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0092.622 (0) Table si_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=884) in 0.01 seconds
+0092.638 (0) Table si_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0092.649 (0) Table si_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0092.654 (0) Table si_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1393) in 0.01 seconds
+0092.670 (0) Table si_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0092.681 (0) Table si_wpfm_backup: Total expected rows (via COUNT): 0
+0092.684 (0) Table si_wpfm_backup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=554) in 0.01 seconds
+0092.700 (0) Table si_wpfm_backup: finishing file(s) (2, 0.3 KB)
+0092.719 (0) Table si_wpforms_tasks_meta: Total expected rows (via COUNT): 7
+0092.722 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0092.728 (0) Table si_wpforms_tasks_meta: Rows added in this batch (next record: 8): 7 (uncompressed bytes in this segment=1249) in 0.02 seconds
+0092.747 (0) Table si_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0092.751 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\wamp64\www\Own\sufsalInternational/wp-content/updraft/backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db.gz (line 1976, C:\wamp64\www\Own\sufsalInternational\wp-content\plugins\updraftplus\backup.php)
+0092.756 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_options.table.tmpr191635.gz (1/119/fopen): adding to final database dump
+0092.777 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_options.table.gz (2/119/fopen): adding to final database dump
+0092.779 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_users.table.tmpr3.gz (3/119/fopen): adding to final database dump
+0092.783 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_users.table.gz (4/119/fopen): adding to final database dump
+0092.785 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_usermeta.table.tmpr316.gz (5/119/fopen): adding to final database dump
+0092.789 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_usermeta.table.gz (6/119/fopen): adding to final database dump
+0092.792 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_actionscheduler_actions.table.tmpr17770.gz (7/119/fopen): adding to final database dump
+0092.795 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_actionscheduler_actions.table.gz (8/119/fopen): adding to final database dump
+0092.798 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_actionscheduler_claims.table.tmpr0.gz (9/119/fopen): adding to final database dump
+0092.801 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_actionscheduler_claims.table.gz (10/119/fopen): adding to final database dump
+0092.804 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_actionscheduler_groups.table.tmpr13.gz (11/119/fopen): adding to final database dump
+0092.807 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_actionscheduler_groups.table.gz (12/119/fopen): adding to final database dump
+0092.809 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_actionscheduler_logs.table.tmpr52304.gz (13/119/fopen): adding to final database dump
+0092.813 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_actionscheduler_logs.table.gz (14/119/fopen): adding to final database dump
+0092.815 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_commentmeta.table.tmpr0.gz (15/119/fopen): adding to final database dump
+0092.819 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_commentmeta.table.gz (16/119/fopen): adding to final database dump
+0092.821 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_comments.table.tmpr32.gz (17/119/fopen): adding to final database dump
+0092.825 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_comments.table.gz (18/119/fopen): adding to final database dump
+0092.827 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_links.table.tmpr0.gz (19/119/fopen): adding to final database dump
+0092.831 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_links.table.gz (20/119/fopen): adding to final database dump
+0092.833 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_postmeta.table.tmpr23108.gz (21/119/fopen): adding to final database dump
+0092.849 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_postmeta.table.gz (22/119/fopen): adding to final database dump
+0092.851 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_posts.table.tmpr2041.gz (23/119/fopen): adding to final database dump
+0092.869 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_posts.table.gz (24/119/fopen): adding to final database dump
+0092.871 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_term_relationships.table.tmpr100001.gz (25/119/fopen): adding to final database dump
+0092.875 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_term_relationships.table.gz (26/119/fopen): adding to final database dump
+0092.878 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_term_taxonomy.table.tmpr322.gz (27/119/fopen): adding to final database dump
+0092.882 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_term_taxonomy.table.gz (28/119/fopen): adding to final database dump
+0092.884 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_termmeta.table.tmpr483.gz (29/119/fopen): adding to final database dump
+0092.888 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_termmeta.table.gz (30/119/fopen): adding to final database dump
+0092.890 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_terms.table.tmpr322.gz (31/119/fopen): adding to final database dump
+0092.894 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_terms.table.gz (32/119/fopen): adding to final database dump
+0092.896 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_category_lookup.table.tmpr1001.gz (33/119/fopen): adding to final database dump
+0092.900 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_category_lookup.table.gz (34/119/fopen): adding to final database dump
+0092.902 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_product_meta_lookup.table.tmpr1802.gz (35/119/fopen): adding to final database dump
+0092.906 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_product_meta_lookup.table.gz (36/119/fopen): adding to final database dump
+0092.909 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_reserved_stock.table.tmpr1.gz (37/119/fopen): adding to final database dump
+0092.912 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_reserved_stock.table.gz (38/119/fopen): adding to final database dump
+0092.915 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_tax_rate_classes.table.tmpr3.gz (39/119/fopen): adding to final database dump
+0092.918 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_tax_rate_classes.table.gz (40/119/fopen): adding to final database dump
+0092.920 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_order_itemmeta.table.tmpr628.gz (41/119/fopen): adding to final database dump
+0092.924 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_order_itemmeta.table.gz (42/119/fopen): adding to final database dump
+0092.927 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/119/fopen): adding to final database dump
+0092.930 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_payment_tokenmeta.table.gz (44/119/fopen): adding to final database dump
+0092.933 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_aioseo_cache.table.tmpr350.gz (45/119/fopen): adding to final database dump
+0092.936 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_aioseo_cache.table.gz (46/119/fopen): adding to final database dump
+0092.939 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_aioseo_notifications.table.tmpr25.gz (47/119/fopen): adding to final database dump
+0092.945 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_aioseo_notifications.table.gz (48/119/fopen): adding to final database dump
+0092.948 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_aioseo_posts.table.tmpr780.gz (49/119/fopen): adding to final database dump
+0092.951 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_aioseo_posts.table.gz (50/119/fopen): adding to final database dump
+0092.954 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_cf7_data.table.tmpr1863.gz (51/119/fopen): adding to final database dump
+0092.957 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_cf7_data.table.gz (52/119/fopen): adding to final database dump
+0092.960 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_cf7_data_entry.table.tmpr14717.gz (53/119/fopen): adding to final database dump
+0092.968 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_cf7_data_entry.table.gz (54/119/fopen): adding to final database dump
+0092.971 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_e_events.table.tmpr9.gz (55/119/fopen): adding to final database dump
+0092.974 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_e_events.table.gz (56/119/fopen): adding to final database dump
+0092.977 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_automation_run_logs.table.tmpr0.gz (57/119/fopen): adding to final database dump
+0092.981 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_automation_run_logs.table.gz (58/119/fopen): adding to final database dump
+0092.983 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_automation_runs.table.tmpr0.gz (59/119/fopen): adding to final database dump
+0092.987 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_automation_runs.table.gz (60/119/fopen): adding to final database dump
+0092.989 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_automation_triggers.table.tmpr1.gz (61/119/fopen): adding to final database dump
+0092.993 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_automation_triggers.table.gz (62/119/fopen): adding to final database dump
+0092.995 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_automation_versions.table.tmpr0.gz (63/119/fopen): adding to final database dump
+0092.998 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_automation_versions.table.gz (64/119/fopen): adding to final database dump
+0093.001 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_automations.table.tmpr0.gz (65/119/fopen): adding to final database dump
+0093.005 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_automations.table.gz (66/119/fopen): adding to final database dump
+0093.009 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_custom_fields.table.tmpr0.gz (67/119/fopen): adding to final database dump
+0093.011 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_custom_fields.table.gz (68/119/fopen): adding to final database dump
+0093.015 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_dynamic_segment_filters.table.tmpr0.gz (69/119/fopen): adding to final database dump
+0093.017 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_dynamic_segment_filters.table.gz (70/119/fopen): adding to final database dump
+0093.021 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_feature_flags.table.tmpr0.gz (71/119/fopen): adding to final database dump
+0093.023 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_feature_flags.table.gz (72/119/fopen): adding to final database dump
+0093.027 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_forms.table.tmpr0.gz (73/119/fopen): adding to final database dump
+0093.029 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_forms.table.gz (74/119/fopen): adding to final database dump
+0093.032 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_log.table.tmpr0.gz (75/119/fopen): adding to final database dump
+0093.035 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_log.table.gz (76/119/fopen): adding to final database dump
+0093.038 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_migrations.table.tmpr6.gz (77/119/fopen): adding to final database dump
+0093.041 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_migrations.table.gz (78/119/fopen): adding to final database dump
+0093.044 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletter_links.table.tmpr0.gz (79/119/fopen): adding to final database dump
+0093.047 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletter_links.table.gz (80/119/fopen): adding to final database dump
+0093.050 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletter_option.table.tmpr0.gz (81/119/fopen): adding to final database dump
+0093.053 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletter_option.table.gz (82/119/fopen): adding to final database dump
+0093.056 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletter_option_fields.table.tmpr25.gz (83/119/fopen): adding to final database dump
+0093.059 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletter_option_fields.table.gz (84/119/fopen): adding to final database dump
+0093.062 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletter_posts.table.tmpr0.gz (85/119/fopen): adding to final database dump
+0093.064 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletter_posts.table.gz (86/119/fopen): adding to final database dump
+0093.068 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletter_segment.table.tmpr0.gz (87/119/fopen): adding to final database dump
+0093.070 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletter_segment.table.gz (88/119/fopen): adding to final database dump
+0093.074 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletter_templates.table.tmpr77.gz (89/119/fopen): adding to final database dump
+0093.080 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletter_templates.table.gz (90/119/fopen): adding to final database dump
+0093.083 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletters.table.tmpr2.gz (91/119/fopen): adding to final database dump
+0093.086 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_newsletters.table.gz (92/119/fopen): adding to final database dump
+0093.090 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_scheduled_task_subscribers.table.tmpr1.gz (93/119/fopen): adding to final database dump
+0093.092 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_scheduled_task_subscribers.table.gz (94/119/fopen): adding to final database dump
+0093.096 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_scheduled_tasks.table.tmpr18.gz (95/119/fopen): adding to final database dump
+0093.098 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_scheduled_tasks.table.gz (96/119/fopen): adding to final database dump
+0093.102 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_segments.table.tmpr4.gz (97/119/fopen): adding to final database dump
+0093.104 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_segments.table.gz (98/119/fopen): adding to final database dump
+0093.108 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_sending_queues.table.tmpr0.gz (99/119/fopen): adding to final database dump
+0093.115 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_sending_queues.table.gz (100/119/fopen): adding to final database dump
+0093.117 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_settings.table.tmpr35.gz (101/119/fopen): adding to final database dump
+0093.121 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_settings.table.gz (102/119/fopen): adding to final database dump
+0093.123 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_bounces.table.tmpr0.gz (103/119/fopen): adding to final database dump
+0093.127 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_bounces.table.gz (104/119/fopen): adding to final database dump
+0093.129 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_clicks.table.tmpr0.gz (105/119/fopen): adding to final database dump
+0093.133 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_clicks.table.gz (106/119/fopen): adding to final database dump
+0093.135 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_forms.table.tmpr0.gz (107/119/fopen): adding to final database dump
+0093.138 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_forms.table.gz (108/119/fopen): adding to final database dump
+0093.141 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_newsletters.table.tmpr0.gz (109/119/fopen): adding to final database dump
+0093.145 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_newsletters.table.gz (110/119/fopen): adding to final database dump
+0093.147 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_opens.table.tmpr0.gz (111/119/fopen): adding to final database dump
+0093.151 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_opens.table.gz (112/119/fopen): adding to final database dump
+0093.153 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_unsubscribes.table.tmpr0.gz (113/119/fopen): adding to final database dump
+0093.157 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_unsubscribes.table.gz (114/119/fopen): adding to final database dump
+0093.159 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_woocommerce_purchases.table.tmpr0.gz (115/119/fopen): adding to final database dump
+0093.162 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_statistics_woocommerce_purchases.table.gz (116/119/fopen): adding to final database dump
+0093.165 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_stats_notifications.table.tmpr0.gz (117/119/fopen): adding to final database dump
+0093.168 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_stats_notifications.table.gz (118/119/fopen): adding to final database dump
+0093.171 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_subscriber_custom_field.table.tmpr0.gz (119/119/fopen): adding to final database dump
+0093.174 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_subscriber_custom_field.table.gz (120/119/fopen): adding to final database dump
+0093.177 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_subscriber_ips.table.tmpr1.gz (121/119/fopen): adding to final database dump
+0093.180 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_subscriber_ips.table.gz (122/119/fopen): adding to final database dump
+0093.184 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_subscriber_segment.table.tmpr11.gz (123/119/fopen): adding to final database dump
+0093.186 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_subscriber_segment.table.gz (124/119/fopen): adding to final database dump
+0093.190 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_subscriber_tag.table.tmpr0.gz (125/119/fopen): adding to final database dump
+0093.192 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_subscriber_tag.table.gz (126/119/fopen): adding to final database dump
+0093.196 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_subscribers.table.tmpr8.gz (127/119/fopen): adding to final database dump
+0093.198 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_subscribers.table.gz (128/119/fopen): adding to final database dump
+0093.202 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_tags.table.tmpr0.gz (129/119/fopen): adding to final database dump
+0093.206 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_tags.table.gz (130/119/fopen): adding to final database dump
+0093.208 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_user_agents.table.tmpr0.gz (131/119/fopen): adding to final database dump
+0093.212 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_user_agents.table.gz (132/119/fopen): adding to final database dump
+0093.215 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_user_flags.table.tmpr2.gz (133/119/fopen): adding to final database dump
+0093.219 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_mailpoet_user_flags.table.gz (134/119/fopen): adding to final database dump
+0093.228 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_smush_dir_images.table.tmpr0.gz (135/119/fopen): adding to final database dump
+0093.231 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_smush_dir_images.table.gz (136/119/fopen): adding to final database dump
+0093.234 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_admin_note_actions.table.tmpr27796.gz (137/119/fopen): adding to final database dump
+0093.237 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_admin_note_actions.table.gz (138/119/fopen): adding to final database dump
+0093.240 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_admin_notes.table.tmpr148.gz (139/119/fopen): adding to final database dump
+0093.244 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_admin_notes.table.gz (140/119/fopen): adding to final database dump
+0093.246 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_customer_lookup.table.tmpr4.gz (141/119/fopen): adding to final database dump
+0093.249 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_customer_lookup.table.gz (142/119/fopen): adding to final database dump
+0093.252 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_download_log.table.tmpr0.gz (143/119/fopen): adding to final database dump
+0093.256 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_download_log.table.gz (144/119/fopen): adding to final database dump
+0093.258 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_order_coupon_lookup.table.tmpr1.gz (145/119/fopen): adding to final database dump
+0093.262 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_order_coupon_lookup.table.gz (146/119/fopen): adding to final database dump
+0093.264 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_order_product_lookup.table.tmpr77.gz (147/119/fopen): adding to final database dump
+0093.268 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_order_product_lookup.table.gz (148/119/fopen): adding to final database dump
+0093.270 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_order_stats.table.tmpr1952.gz (149/119/fopen): adding to final database dump
+0093.274 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_order_stats.table.gz (150/119/fopen): adding to final database dump
+0093.276 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_order_tax_lookup.table.tmpr1.gz (151/119/fopen): adding to final database dump
+0093.280 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_order_tax_lookup.table.gz (152/119/fopen): adding to final database dump
+0093.282 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_product_attributes_lookup.table.tmpr1.gz (153/119/fopen): adding to final database dump
+0093.286 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_product_attributes_lookup.table.gz (154/119/fopen): adding to final database dump
+0093.288 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_product_download_directories.table.tmpr3.gz (155/119/fopen): adding to final database dump
+0093.292 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_product_download_directories.table.gz (156/119/fopen): adding to final database dump
+0093.294 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_rate_limits.table.tmpr0.gz (157/119/fopen): adding to final database dump
+0093.298 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_rate_limits.table.gz (158/119/fopen): adding to final database dump
+0093.300 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_webhooks.table.tmpr0.gz (159/119/fopen): adding to final database dump
+0093.303 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wc_webhooks.table.gz (160/119/fopen): adding to final database dump
+0093.306 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wcpdf_invoice_number.table.tmpr1108.gz (161/119/fopen): adding to final database dump
+0093.309 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wcpdf_invoice_number.table.gz (162/119/fopen): adding to final database dump
+0093.312 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wcpdf_packing_slip_number.table.tmpr0.gz (163/119/fopen): adding to final database dump
+0093.316 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wcpdf_packing_slip_number.table.gz (164/119/fopen): adding to final database dump
+0093.344 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfblockediplog.table.tmpr1.gz (165/119/fopen): adding to final database dump
+0093.347 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfblockediplog.table.gz (166/119/fopen): adding to final database dump
+0093.351 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfblocks7.table.tmpr0.gz (167/119/fopen): adding to final database dump
+0093.354 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfblocks7.table.gz (168/119/fopen): adding to final database dump
+0093.357 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfconfig.table.tmpr1001.gz (169/119/fopen): adding to final database dump
+0093.372 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfconfig.table.gz (170/119/fopen): adding to final database dump
+0093.376 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfcrawlers.table.tmpr1.gz (171/119/fopen): adding to final database dump
+0093.380 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfcrawlers.table.gz (172/119/fopen): adding to final database dump
+0093.383 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wffilechanges.table.tmpr1.gz (173/119/fopen): adding to final database dump
+0093.388 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wffilechanges.table.gz (174/119/fopen): adding to final database dump
+0093.391 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wffilemods.table.tmpr36001.gz (175/119/fopen): adding to final database dump
+0093.484 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wffilemods.table.gz (176/119/fopen): adding to final database dump
+0093.489 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfhits.table.tmpr3766.gz (177/119/fopen): adding to final database dump
+0093.491 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfhits.table.gz (178/119/fopen): adding to final database dump
+0093.496 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfhoover.table.tmpr0.gz (179/119/fopen): adding to final database dump
+0093.499 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfhoover.table.gz (180/119/fopen): adding to final database dump
+0093.504 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfissues.table.tmpr5296.gz (181/119/fopen): adding to final database dump
+0093.507 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfissues.table.gz (182/119/fopen): adding to final database dump
+0093.511 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfknownfilelist.table.tmpr28133.gz (183/119/fopen): adding to final database dump
+0093.528 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfknownfilelist.table.gz (184/119/fopen): adding to final database dump
+0093.531 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wflivetraffichuman.table.tmpr1.gz (185/119/fopen): adding to final database dump
+0093.535 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wflivetraffichuman.table.gz (186/119/fopen): adding to final database dump
+0093.538 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wflocs.table.tmpr1.gz (187/119/fopen): adding to final database dump
+0093.543 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wflocs.table.gz (188/119/fopen): adding to final database dump
+0093.546 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wflogins.table.tmpr1308.gz (189/119/fopen): adding to final database dump
+0093.552 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wflogins.table.gz (190/119/fopen): adding to final database dump
+0093.555 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfls_2fa_secrets.table.tmpr3.gz (191/119/fopen): adding to final database dump
+0093.560 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfls_2fa_secrets.table.gz (192/119/fopen): adding to final database dump
+0093.563 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfls_role_counts.table.tmpr1.gz (193/119/fopen): adding to final database dump
+0093.567 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfls_role_counts.table.gz (194/119/fopen): adding to final database dump
+0093.570 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfls_settings.table.tmpr1001.gz (195/119/fopen): adding to final database dump
+0093.575 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfls_settings.table.gz (196/119/fopen): adding to final database dump
+0093.578 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfnotifications.table.tmpr1001.gz (197/119/fopen): adding to final database dump
+0093.582 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfnotifications.table.gz (198/119/fopen): adding to final database dump
+0093.586 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfpendingissues.table.tmpr0.gz (199/119/fopen): adding to final database dump
+0093.594 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfpendingissues.table.gz (200/119/fopen): adding to final database dump
+0093.598 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfreversecache.table.tmpr1001.gz (201/119/fopen): adding to final database dump
+0093.602 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfreversecache.table.gz (202/119/fopen): adding to final database dump
+0093.606 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfsnipcache.table.tmpr0.gz (203/119/fopen): adding to final database dump
+0093.610 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfsnipcache.table.gz (204/119/fopen): adding to final database dump
+0093.613 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfstatus.table.tmpr124954.gz (205/119/fopen): adding to final database dump
+0093.618 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfstatus.table.gz (206/119/fopen): adding to final database dump
+0093.621 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wftrafficrates.table.tmpr1.gz (207/119/fopen): adding to final database dump
+0093.625 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wftrafficrates.table.gz (208/119/fopen): adding to final database dump
+0093.629 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfwaffailures.table.tmpr0.gz (209/119/fopen): adding to final database dump
+0093.632 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wfwaffailures.table.gz (210/119/fopen): adding to final database dump
+0093.635 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_api_keys.table.tmpr0.gz (211/119/fopen): adding to final database dump
+0093.639 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_api_keys.table.gz (212/119/fopen): adding to final database dump
+0093.642 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_attribute_taxonomies.table.tmpr0.gz (213/119/fopen): adding to final database dump
+0093.646 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_attribute_taxonomies.table.gz (214/119/fopen): adding to final database dump
+0093.649 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_downloadable_product_permissions.table.tmpr0.gz (215/119/fopen): adding to final database dump
+0093.654 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_downloadable_product_permissions.table.gz (216/119/fopen): adding to final database dump
+0093.657 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_log.table.tmpr0.gz (217/119/fopen): adding to final database dump
+0093.662 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_log.table.gz (218/119/fopen): adding to final database dump
+0093.666 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_order_items.table.tmpr78.gz (219/119/fopen): adding to final database dump
+0093.670 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_order_items.table.gz (220/119/fopen): adding to final database dump
+0093.674 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_payment_tokens.table.tmpr0.gz (221/119/fopen): adding to final database dump
+0093.678 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_payment_tokens.table.gz (222/119/fopen): adding to final database dump
+0093.681 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_sessions.table.tmpr31250.gz (223/119/fopen): adding to final database dump
+0093.686 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_sessions.table.gz (224/119/fopen): adding to final database dump
+0093.689 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_shipping_zone_locations.table.tmpr0.gz (225/119/fopen): adding to final database dump
+0093.694 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_shipping_zone_locations.table.gz (226/119/fopen): adding to final database dump
+0093.697 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_shipping_zone_methods.table.tmpr3.gz (227/119/fopen): adding to final database dump
+0093.701 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_shipping_zone_methods.table.gz (228/119/fopen): adding to final database dump
+0093.705 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_shipping_zones.table.tmpr0.gz (229/119/fopen): adding to final database dump
+0093.709 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_shipping_zones.table.gz (230/119/fopen): adding to final database dump
+0093.711 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_tax_rate_locations.table.tmpr0.gz (231/119/fopen): adding to final database dump
+0093.716 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_tax_rate_locations.table.gz (232/119/fopen): adding to final database dump
+0093.719 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_tax_rates.table.tmpr0.gz (233/119/fopen): adding to final database dump
+0093.723 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_woocommerce_tax_rates.table.gz (234/119/fopen): adding to final database dump
+0093.729 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wpfm_backup.table.tmpr0.gz (235/119/fopen): adding to final database dump
+0093.732 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wpfm_backup.table.gz (236/119/fopen): adding to final database dump
+0093.736 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wpforms_tasks_meta.table.tmpr9.gz (237/119/fopen): adding to final database dump
+0093.740 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db-table-si_wpforms_tasks_meta.table.gz (238/119/fopen): adding to final database dump
+0093.749 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db.gz: finished writing out complete database file (5638.5 KB)
+0093.887 (0) Total database tables backed up: 119 (backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db.gz, size: 5773914, sha1: d324dbd745d1ef849d7d0dbf4e4156038f6cd963, sha256: 82aaa98aec6e3328d061becf4b0b31707bb34aa6a3cea1b6b86d2b582d0bbf1b)
+0093.903 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-plugins.zip: plugins: This file has already been successfully uploaded
+0093.906 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-themes.zip: themes: This file has already been successfully uploaded
+0093.908 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-uploads.zip: uploads: This file has already been successfully uploaded
+0093.911 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-others.zip: others: This file has already been successfully uploaded
+0093.913 (0) backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db.gz: db: This file has not yet been successfully uploaded: will queue
+0093.916 (0) Saving backup history. Total backup size: 181.2 MB
+0093.924 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0093.935 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0093.937 (0) No remote despatch: user chose no remote backup service
+0093.940 (0) Recording as successfully uploaded: backup_2024-05-17-2136_Sufsal_international_919c6d11808a-db.gz
+0093.947 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0093.951 (0) Number of backup sets in history: 2; groups (db): 1
+0093.953 (0) Examining (for databases) backup set with group_id=0, nonce=919c6d11808a, datestamp=1715963771 (May 17 2024 16:36:11)
+0093.957 (0) This backup set is the backup set just made, so will not be deleted.
+0093.957 (0) Examining (for databases) backup set with group_id=0, nonce=2f3a89780693, datestamp=1715947257 (May 17 2024 12:00:57)
+0093.957 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0093.959 (0) Number of backup sets in history: 2; groups (files): 1
+0093.961 (0) Examining (for files) backup set with nonce=919c6d11808a, datestamp=1715963771 (May 17 2024 16:36:11)
+0093.961 (0) This backup set is the backup set just made, so will not be deleted.
+0093.963 (0) This backup set is the backup set just made, so will not be deleted.
+0093.964 (0) This backup set is the backup set just made, so will not be deleted.
+0093.964 (0) This backup set is the backup set just made, so will not be deleted.
+0093.965 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0093.968 (0) Examining (for files) backup set with nonce=2f3a89780693, datestamp=1715947257 (May 17 2024 12:00:57)
+0093.968 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0093.969 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0093.976 (0) Resume backup (919c6d11808a, 0): finish run
+0093.983 (0) Decremented the semaphore (fd) by 1
+0093.988 (0) Semaphore (fd) unlocked
+0093.991 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0094.003 (0) Fetching RSS news feed
+0095.089 (0) Fetched RSS news feed; result is a: SimplePie
+0095.104 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: touch...
+0095.109 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0095.114 (0) The backup apparently succeeded and is now complete

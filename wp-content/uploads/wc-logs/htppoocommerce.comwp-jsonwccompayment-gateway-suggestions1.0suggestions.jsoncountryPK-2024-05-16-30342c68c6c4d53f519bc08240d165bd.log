@@ -1,0 +1,22 @@
+2024-05-16T16:22:27+00:00 ERROR Error getting data feed
+2024-05-16T16:22:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => Only HTTP(S) requests are handled.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+

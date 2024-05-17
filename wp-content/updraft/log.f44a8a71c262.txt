@@ -1,0 +1,470 @@
+0000.007 () Opened log file at time: Fri, 17 May 2024 15:46:51 +0000 on http://localhost/own/sufsalInternational
+0000.009 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.5.3 PHP: 7.2.34 (apache2handler, Windows NT IRFAN-PC 10.0 build 19041 (Windows 10) AMD64) MySQL: 8.0.31 (max packet size=67108864) WPLANG: en_US Server: Apache/2.4.54 (Win64) PHP/7.2.34 mod_fcgid/2.3.10-dev safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.3M | 6M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.009 () Free space on disk containing Updraft's temporary directory: 35112.7 MB
+0000.074 () Restore setup, now closing connection and starting restore over AJAX.
+0000.005 () Opened log file at time: Fri, 17 May 2024 15:46:51 +0000 on http://localhost/own/sufsalInternational
+0000.006 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.5.3 PHP: 7.2.34 (apache2handler, Windows NT IRFAN-PC 10.0 build 19041 (Windows 10) AMD64) MySQL: 8.0.31 (max packet size=67108864) WPLANG: en_US Server: Apache/2.4.54 (Win64) PHP/7.2.34 mod_fcgid/2.3.10-dev safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.3M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 () Free space on disk containing Updraft's temporary directory: 35111.9 MB
+0000.029 () Ensuring WP_Filesystem is setup for a restore
+0000.031 () WP_Filesystem is setup and ready for a restore
+0000.039 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"include_unspecified_tables":false,"tables_to_restore":["wp_options","wp_users","wp_usermeta","wp_actionscheduler_actions","wp_actionscheduler_claims","wp_actionscheduler_groups","wp_actionscheduler_logs","wp_commentmeta","wp_comments","wp_links","wp_postmeta","wp_posts","wp_term_relationships","wp_term_taxonomy","wp_termmeta","wp_terms","wp_wc_category_lookup","wp_wc_product_meta_lookup","wp_wc_reserved_stock","wp_wc_tax_rate_classes","wp_woocommerce_order_itemmeta","wp_woocommerce_payment_tokenmeta","wp_aioseo_cache","wp_aioseo_notifications","wp_aioseo_posts","wp_cf7_data","wp_cf7_data_entry","wp_duplicator_packages","wp_e_events","wp_mailpoet_automation_run_logs","wp_mailpoet_automation_runs","wp_mailpoet_automation_triggers","wp_mailpoet_automation_versions","wp_mailpoet_automations","wp_mailpoet_custom_fields","wp_mailpoet_dynamic_segment_filters","wp_mailpoet_feature_flags","wp_mailpoet_forms","wp_mailpoet_log","wp_mailpoet_migrations","wp_mailpoet_newsletter_links","wp_mailpoet_newsletter_option","wp_mailpoet_newsletter_option_fields","wp_mailpoet_newsletter_posts","wp_mailpoet_newsletter_segment","wp_mailpoet_newsletter_templates","wp_mailpoet_newsletters","wp_mailpoet_scheduled_task_subscribers","wp_mailpoet_scheduled_tasks","wp_mailpoet_segments","wp_mailpoet_sending_queues","wp_mailpoet_settings","wp_mailpoet_statistics_bounces","wp_mailpoet_statistics_clicks","wp_mailpoet_statistics_forms","wp_mailpoet_statistics_newsletters","wp_mailpoet_statistics_opens","wp_mailpoet_statistics_unsubscribes","wp_mailpoet_statistics_woocommerce_purchases","wp_mailpoet_stats_notifications","wp_mailpoet_subscriber_custom_field","wp_mailpoet_subscriber_ips","wp_mailpoet_subscriber_segment","wp_mailpoet_subscriber_tag","wp_mailpoet_subscribers","wp_mailpoet_tags","wp_mailpoet_user_agents","wp_mailpoet_user_flags","wp_smush_dir_images","wp_wc_admin_note_actions","wp_wc_admin_notes","wp_wc_customer_lookup","wp_wc_download_log","wp_wc_order_coupon_lookup","wp_wc_order_product_lookup","wp_wc_order_stats","wp_wc_order_tax_lookup","wp_wc_product_attributes_lookup","wp_wc_product_download_directories","wp_wc_rate_limits","wp_wc_webhooks","wp_wcpdf_invoice_number","wp_wcpdf_packing_slip_number","wp_wfblockediplog","wp_wfblocks7","wp_wfconfig","wp_wfcrawlers","wp_wffilechanges","wp_wffilemods","wp_wfhits","wp_wfhoover","wp_wfissues","wp_wfknownfilelist","wp_wflivetraffichuman","wp_wflocs","wp_wflogins","wp_wfls_2fa_secrets","wp_wfls_role_counts","wp_wfls_settings","wp_wfnotifications","wp_wfpendingissues","wp_wfreversecache","wp_wfsnipcache","wp_wfstatus","wp_wftrafficrates","wp_wfwaffailures","wp_woocommerce_api_keys","wp_woocommerce_attribute_taxonomies","wp_woocommerce_downloadable_product_permissions","wp_woocommerce_log","wp_woocommerce_order_items","wp_woocommerce_payment_tokens","wp_woocommerce_sessions","wp_woocommerce_shipping_zone_locations","wp_woocommerce_shipping_zone_methods","wp_woocommerce_shipping_zones","wp_woocommerce_tax_rate_locations","wp_woocommerce_tax_rates","wp_wpfm_backup","wp_wpforms_tasks_meta"],"tables_to_skip":[],"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.065 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.069 () Entity: db
+0000.069 () restore_backup(backup_file=backup_2024-05-17-1700_Sufsal_international_2f3a89780693-db.gz, type=db, info=a:0:{}, last_one=)
+0000.072 () Unpacking backup... (backup_2024-05-17-1700_Sufsal_international_2f3a89780693-db.gz, 5.4 Mb)
+0000.082 () Database successfully unpacked
+0000.084 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.092 () Using direct MySQL access; value of use_mysqli is: 1
+0000.093 () SQL compatibility mode is: NO_AUTO_VALUE_ON_ZERO,
+0000.165 () Max packet size: 64 MB
+0000.165 () Entering maintenance mode
+0000.165 () Enabling Maintenance mode&#8230;
+0000.206 () Backup of: http://localhost/own/sufsalInternational
+0000.208 () Site home: http://localhost/own/sufsalInternational/home
+0000.209 () Content URL: http://localhost/own/sufsalInternational/wp-content
+0000.209 () Uploads URL: http://localhost/own/sufsalInternational/wp-content/uploads
+0000.209 () Old table prefix: wp_
+0000.210 () UpdraftPlus plugin slug: updraftplus/updraftplus.php
+0000.210 () Site information: multisite=0
+0000.210 () Site information: sql_mode=
+0000.211 () New table prefix: qa_
+0000.215 () Processing table (InnoDB): wp_options - will restore as: qa_options
+0000.728 () Atomic restore: dropping original table (si_options)
+0000.735 () Atomic restore: renaming new table (qa_options) to final table name (si_options)
+0000.756 () Restoring prior UD configuration (table: si_options; keys: 4)
+0000.791 () Table prefix has changed: changing options table field(s) accordingly (options)
+0000.794 () Options table fields changed OK
+0000.811 () Processing table (InnoDB): wp_users - will restore as: qa_users
+0000.906 () Atomic restore: dropping original table (si_users)
+0000.913 () Atomic restore: renaming new table (qa_users) to final table name (si_users)
+0000.936 () Processing table (InnoDB): wp_usermeta - will restore as: qa_usermeta
+0001.015 () Atomic restore: dropping original table (si_usermeta)
+0001.026 () Atomic restore: renaming new table (qa_usermeta) to final table name (si_usermeta)
+0001.046 () Table prefix has changed: changing usermeta table field(s) accordingly
+0001.054 () Usermeta table fields changed OK
+0001.054 () Processing table (InnoDB): wp_actionscheduler_actions - will restore as: qa_actionscheduler_actions
+0001.192 () Atomic restore: dropping original table (si_actionscheduler_actions)
+0001.194 () Atomic restore: renaming new table (qa_actionscheduler_actions) to final table name (si_actionscheduler_actions)
+0001.213 () Processing table (InnoDB): wp_actionscheduler_claims - will restore as: qa_actionscheduler_claims
+0001.273 () Atomic restore: dropping original table (si_actionscheduler_claims)
+0001.274 () Atomic restore: renaming new table (qa_actionscheduler_claims) to final table name (si_actionscheduler_claims)
+0001.295 () Processing table (InnoDB): wp_actionscheduler_groups - will restore as: qa_actionscheduler_groups
+0001.357 () Atomic restore: dropping original table (si_actionscheduler_groups)
+0001.359 () Atomic restore: renaming new table (qa_actionscheduler_groups) to final table name (si_actionscheduler_groups)
+0001.377 () Processing table (InnoDB): wp_actionscheduler_logs - will restore as: qa_actionscheduler_logs
+0001.442 () Atomic restore: dropping original table (si_actionscheduler_logs)
+0001.443 () Atomic restore: renaming new table (qa_actionscheduler_logs) to final table name (si_actionscheduler_logs)
+0001.463 () Processing table (InnoDB): wp_commentmeta - will restore as: qa_commentmeta
+0001.513 () Atomic restore: dropping original table (si_commentmeta)
+0001.518 () Atomic restore: renaming new table (qa_commentmeta) to final table name (si_commentmeta)
+0001.539 () Processing table (InnoDB): wp_comments - will restore as: qa_comments
+0001.634 () Atomic restore: dropping original table (si_comments)
+0001.642 () Atomic restore: renaming new table (qa_comments) to final table name (si_comments)
+0001.674 () Processing table (InnoDB): wp_links - will restore as: qa_links
+0001.775 () Atomic restore: dropping original table (si_links)
+0001.780 () Atomic restore: renaming new table (qa_links) to final table name (si_links)
+0001.807 () Processing table (InnoDB): wp_postmeta - will restore as: qa_postmeta
+0004.260 () Database queries processed: 50 in 4.16 seconds
+0005.199 () Atomic restore: dropping original table (si_postmeta)
+0005.210 () Atomic restore: renaming new table (qa_postmeta) to final table name (si_postmeta)
+0005.247 () Processing table (InnoDB): wp_posts - will restore as: qa_posts
+0007.142 () Atomic restore: dropping original table (si_posts)
+0007.152 () Atomic restore: renaming new table (qa_posts) to final table name (si_posts)
+0007.179 () Processing table (InnoDB): wp_term_relationships - will restore as: qa_term_relationships
+0007.404 () Atomic restore: dropping original table (si_term_relationships)
+0007.412 () Atomic restore: renaming new table (qa_term_relationships) to final table name (si_term_relationships)
+0007.444 () Processing table (InnoDB): wp_term_taxonomy - will restore as: qa_term_taxonomy
+0007.570 () Atomic restore: dropping original table (si_term_taxonomy)
+0007.580 () Atomic restore: renaming new table (qa_term_taxonomy) to final table name (si_term_taxonomy)
+0007.613 () Processing table (InnoDB): wp_termmeta - will restore as: qa_termmeta
+0007.805 () Atomic restore: dropping original table (si_termmeta)
+0007.839 () Atomic restore: renaming new table (qa_termmeta) to final table name (si_termmeta)
+0007.879 () Processing table (InnoDB): wp_terms - will restore as: qa_terms
+0008.194 () Atomic restore: dropping original table (si_terms)
+0008.202 () Atomic restore: renaming new table (qa_terms) to final table name (si_terms)
+0008.222 () Processing table (InnoDB): wp_wc_category_lookup - will restore as: qa_wc_category_lookup
+0008.285 () Atomic restore: dropping original table (si_wc_category_lookup)
+0008.288 () Atomic restore: renaming new table (qa_wc_category_lookup) to final table name (si_wc_category_lookup)
+0008.307 () Processing table (InnoDB): wp_wc_product_meta_lookup - will restore as: qa_wc_product_meta_lookup
+0008.530 () Atomic restore: dropping original table (si_wc_product_meta_lookup)
+0008.532 () Atomic restore: renaming new table (qa_wc_product_meta_lookup) to final table name (si_wc_product_meta_lookup)
+0008.575 () Processing table (InnoDB): wp_wc_reserved_stock - will restore as: qa_wc_reserved_stock
+0008.770 () Atomic restore: dropping original table (si_wc_reserved_stock)
+0008.774 () Atomic restore: renaming new table (qa_wc_reserved_stock) to final table name (si_wc_reserved_stock)
+0008.886 () Processing table (InnoDB): wp_wc_tax_rate_classes - will restore as: qa_wc_tax_rate_classes
+0008.982 () Atomic restore: dropping original table (si_wc_tax_rate_classes)
+0008.985 () Atomic restore: renaming new table (qa_wc_tax_rate_classes) to final table name (si_wc_tax_rate_classes)
+0009.004 () Processing table (InnoDB): wp_woocommerce_order_itemmeta - will restore as: qa_woocommerce_order_itemmeta
+0009.095 () Database queries processed: 100 in 9.00 seconds
+0009.109 () Atomic restore: dropping original table (si_woocommerce_order_itemmeta)
+0009.111 () Atomic restore: renaming new table (qa_woocommerce_order_itemmeta) to final table name (si_woocommerce_order_itemmeta)
+0009.163 () Processing table (InnoDB): wp_woocommerce_payment_tokenmeta - will restore as: qa_woocommerce_payment_tokenmeta
+0009.262 () Atomic restore: dropping original table (si_woocommerce_payment_tokenmeta)
+0009.264 () Atomic restore: renaming new table (qa_woocommerce_payment_tokenmeta) to final table name (si_woocommerce_payment_tokenmeta)
+0009.292 () Processing table (InnoDB): wp_aioseo_cache - will restore as: qa_aioseo_cache
+0009.389 () Atomic restore: dropping original table (si_aioseo_cache)
+0009.392 () Atomic restore: renaming new table (qa_aioseo_cache) to final table name (si_aioseo_cache)
+0009.415 () Processing table (InnoDB): wp_aioseo_notifications - will restore as: qa_aioseo_notifications
+0009.678 () Atomic restore: dropping original table (si_aioseo_notifications)
+0009.680 () Atomic restore: renaming new table (qa_aioseo_notifications) to final table name (si_aioseo_notifications)
+0009.711 () Processing table (InnoDB): wp_aioseo_posts - will restore as: qa_aioseo_posts
+0010.234 () Atomic restore: dropping original table (si_aioseo_posts)
+0010.237 () Atomic restore: renaming new table (qa_aioseo_posts) to final table name (si_aioseo_posts)
+0010.265 () Processing table (InnoDB): wp_cf7_data - will restore as: qa_cf7_data
+0010.484 () Atomic restore: dropping original table (si_cf7_data)
+0010.487 () Atomic restore: renaming new table (qa_cf7_data) to final table name (si_cf7_data)
+0010.525 () Processing table (InnoDB): wp_cf7_data_entry - will restore as: qa_cf7_data_entry
+0011.826 () Atomic restore: dropping original table (si_cf7_data_entry)
+0011.828 () Atomic restore: renaming new table (qa_cf7_data_entry) to final table name (si_cf7_data_entry)
+0011.852 () Processing table (MyISAM): wp_duplicator_packages - will restore as: qa_duplicator_packages
+0011.881 () Atomic restore: dropping original table (si_duplicator_packages)
+0011.885 () Atomic restore: renaming new table (qa_duplicator_packages) to final table name (si_duplicator_packages)
+0011.948 () Processing table (InnoDB): wp_e_events - will restore as: qa_e_events
+0012.048 () Atomic restore: dropping original table (si_e_events)
+0012.053 () Atomic restore: renaming new table (qa_e_events) to final table name (si_e_events)
+0012.076 () Processing table (InnoDB): wp_mailpoet_automation_run_logs - will restore as: qa_mailpoet_automation_run_logs
+0012.177 () Atomic restore: dropping original table (si_mailpoet_automation_run_logs)
+0012.180 () Atomic restore: renaming new table (qa_mailpoet_automation_run_logs) to final table name (si_mailpoet_automation_run_logs)
+0012.214 () Processing table (InnoDB): wp_mailpoet_automation_runs - will restore as: qa_mailpoet_automation_runs
+0012.326 () Atomic restore: dropping original table (si_mailpoet_automation_runs)
+0012.330 () Atomic restore: renaming new table (qa_mailpoet_automation_runs) to final table name (si_mailpoet_automation_runs)
+0012.365 () Processing table (InnoDB): wp_mailpoet_automation_triggers - will restore as: qa_mailpoet_automation_triggers
+0012.414 () Atomic restore: dropping original table (si_mailpoet_automation_triggers)
+0012.418 () Atomic restore: renaming new table (qa_mailpoet_automation_triggers) to final table name (si_mailpoet_automation_triggers)
+0012.525 () Processing table (InnoDB): wp_mailpoet_automation_versions - will restore as: qa_mailpoet_automation_versions
+0012.630 () Atomic restore: dropping original table (si_mailpoet_automation_versions)
+0012.635 () Atomic restore: renaming new table (qa_mailpoet_automation_versions) to final table name (si_mailpoet_automation_versions)
+0012.664 () Processing table (InnoDB): wp_mailpoet_automations - will restore as: qa_mailpoet_automations
+0012.718 () Atomic restore: dropping original table (si_mailpoet_automations)
+0012.720 () Atomic restore: renaming new table (qa_mailpoet_automations) to final table name (si_mailpoet_automations)
+0012.748 () Processing table (InnoDB): wp_mailpoet_custom_fields - will restore as: qa_mailpoet_custom_fields
+0012.831 () Atomic restore: dropping original table (si_mailpoet_custom_fields)
+0012.836 () Atomic restore: renaming new table (qa_mailpoet_custom_fields) to final table name (si_mailpoet_custom_fields)
+0012.867 () Processing table (InnoDB): wp_mailpoet_dynamic_segment_filters - will restore as: qa_mailpoet_dynamic_segment_filters
+0012.995 () Atomic restore: dropping original table (si_mailpoet_dynamic_segment_filters)
+0012.998 () Database queries processed: 150 in 12.90 seconds
+0012.998 () Atomic restore: renaming new table (qa_mailpoet_dynamic_segment_filters) to final table name (si_mailpoet_dynamic_segment_filters)
+0013.029 () Processing table (InnoDB): wp_mailpoet_feature_flags - will restore as: qa_mailpoet_feature_flags
+0013.112 () Atomic restore: dropping original table (si_mailpoet_feature_flags)
+0013.114 () Atomic restore: renaming new table (qa_mailpoet_feature_flags) to final table name (si_mailpoet_feature_flags)
+0013.140 () Processing table (InnoDB): wp_mailpoet_forms - will restore as: qa_mailpoet_forms
+0013.185 () Atomic restore: dropping original table (si_mailpoet_forms)
+0013.187 () Atomic restore: renaming new table (qa_mailpoet_forms) to final table name (si_mailpoet_forms)
+0013.211 () Processing table (InnoDB): wp_mailpoet_log - will restore as: qa_mailpoet_log
+0013.285 () Atomic restore: dropping original table (si_mailpoet_log)
+0013.288 () Atomic restore: renaming new table (qa_mailpoet_log) to final table name (si_mailpoet_log)
+0013.313 () Processing table (InnoDB): wp_mailpoet_migrations - will restore as: qa_mailpoet_migrations
+0013.398 () Atomic restore: dropping original table (si_mailpoet_migrations)
+0013.401 () Atomic restore: renaming new table (qa_mailpoet_migrations) to final table name (si_mailpoet_migrations)
+0013.426 () Processing table (InnoDB): wp_mailpoet_newsletter_links - will restore as: qa_mailpoet_newsletter_links
+0013.586 () Atomic restore: dropping original table (si_mailpoet_newsletter_links)
+0013.592 () Atomic restore: renaming new table (qa_mailpoet_newsletter_links) to final table name (si_mailpoet_newsletter_links)
+0013.617 () Processing table (InnoDB): wp_mailpoet_newsletter_option - will restore as: qa_mailpoet_newsletter_option
+0013.708 () Atomic restore: dropping original table (si_mailpoet_newsletter_option)
+0013.711 () Atomic restore: renaming new table (qa_mailpoet_newsletter_option) to final table name (si_mailpoet_newsletter_option)
+0013.732 () Processing table (InnoDB): wp_mailpoet_newsletter_option_fields - will restore as: qa_mailpoet_newsletter_option_fields
+0013.812 () Atomic restore: dropping original table (si_mailpoet_newsletter_option_fields)
+0013.813 () Atomic restore: renaming new table (qa_mailpoet_newsletter_option_fields) to final table name (si_mailpoet_newsletter_option_fields)
+0013.834 () Processing table (InnoDB): wp_mailpoet_newsletter_posts - will restore as: qa_mailpoet_newsletter_posts
+0013.928 () Atomic restore: dropping original table (si_mailpoet_newsletter_posts)
+0013.929 () Atomic restore: renaming new table (qa_mailpoet_newsletter_posts) to final table name (si_mailpoet_newsletter_posts)
+0013.951 () Processing table (InnoDB): wp_mailpoet_newsletter_segment - will restore as: qa_mailpoet_newsletter_segment
+0014.029 () Atomic restore: dropping original table (si_mailpoet_newsletter_segment)
+0014.031 () Atomic restore: renaming new table (qa_mailpoet_newsletter_segment) to final table name (si_mailpoet_newsletter_segment)
+0014.060 () Processing table (InnoDB): wp_mailpoet_newsletter_templates - will restore as: qa_mailpoet_newsletter_templates
+0014.390 () Atomic restore: dropping original table (si_mailpoet_newsletter_templates)
+0014.393 () Atomic restore: renaming new table (qa_mailpoet_newsletter_templates) to final table name (si_mailpoet_newsletter_templates)
+0014.413 () Processing table (InnoDB): wp_mailpoet_newsletters - will restore as: qa_mailpoet_newsletters
+0014.548 () Atomic restore: dropping original table (si_mailpoet_newsletters)
+0014.551 () Atomic restore: renaming new table (qa_mailpoet_newsletters) to final table name (si_mailpoet_newsletters)
+0014.577 () Processing table (InnoDB): wp_mailpoet_scheduled_task_subscribers - will restore as: qa_mailpoet_scheduled_task_subscribers
+0014.661 () Atomic restore: dropping original table (si_mailpoet_scheduled_task_subscribers)
+0014.663 () Atomic restore: renaming new table (qa_mailpoet_scheduled_task_subscribers) to final table name (si_mailpoet_scheduled_task_subscribers)
+0014.690 () Processing table (InnoDB): wp_mailpoet_scheduled_tasks - will restore as: qa_mailpoet_scheduled_tasks
+0014.778 () Atomic restore: dropping original table (si_mailpoet_scheduled_tasks)
+0014.780 () Atomic restore: renaming new table (qa_mailpoet_scheduled_tasks) to final table name (si_mailpoet_scheduled_tasks)
+0014.800 () Processing table (InnoDB): wp_mailpoet_segments - will restore as: qa_mailpoet_segments
+0014.898 () Atomic restore: dropping original table (si_mailpoet_segments)
+0014.902 () Atomic restore: renaming new table (qa_mailpoet_segments) to final table name (si_mailpoet_segments)
+0014.928 () Processing table (InnoDB): wp_mailpoet_sending_queues - will restore as: qa_mailpoet_sending_queues
+0015.009 () Atomic restore: dropping original table (si_mailpoet_sending_queues)
+0015.012 () Atomic restore: renaming new table (qa_mailpoet_sending_queues) to final table name (si_mailpoet_sending_queues)
+0015.040 () Processing table (InnoDB): wp_mailpoet_settings - will restore as: qa_mailpoet_settings
+0015.141 () Atomic restore: dropping original table (si_mailpoet_settings)
+0015.143 () Atomic restore: renaming new table (qa_mailpoet_settings) to final table name (si_mailpoet_settings)
+0015.166 () Processing table (InnoDB): wp_mailpoet_statistics_bounces - will restore as: qa_mailpoet_statistics_bounces
+0015.210 () Atomic restore: dropping original table (si_mailpoet_statistics_bounces)
+0015.213 () Atomic restore: renaming new table (qa_mailpoet_statistics_bounces) to final table name (si_mailpoet_statistics_bounces)
+0015.234 () Processing table (InnoDB): wp_mailpoet_statistics_clicks - will restore as: qa_mailpoet_statistics_clicks
+0015.329 () Atomic restore: dropping original table (si_mailpoet_statistics_clicks)
+0015.330 () Atomic restore: renaming new table (qa_mailpoet_statistics_clicks) to final table name (si_mailpoet_statistics_clicks)
+0015.359 () Processing table (InnoDB): wp_mailpoet_statistics_forms - will restore as: qa_mailpoet_statistics_forms
+0015.477 () Atomic restore: dropping original table (si_mailpoet_statistics_forms)
+0015.481 () Atomic restore: renaming new table (qa_mailpoet_statistics_forms) to final table name (si_mailpoet_statistics_forms)
+0015.519 () Processing table (InnoDB): wp_mailpoet_statistics_newsletters - will restore as: qa_mailpoet_statistics_newsletters
+0015.605 () Database queries processed: 200 in 15.50 seconds
+0015.607 () Atomic restore: dropping original table (si_mailpoet_statistics_newsletters)
+0015.609 () Atomic restore: renaming new table (qa_mailpoet_statistics_newsletters) to final table name (si_mailpoet_statistics_newsletters)
+0015.632 () Processing table (InnoDB): wp_mailpoet_statistics_opens - will restore as: qa_mailpoet_statistics_opens
+0015.744 () Atomic restore: dropping original table (si_mailpoet_statistics_opens)
+0015.746 () Atomic restore: renaming new table (qa_mailpoet_statistics_opens) to final table name (si_mailpoet_statistics_opens)
+0015.773 () Processing table (InnoDB): wp_mailpoet_statistics_unsubscribes - will restore as: qa_mailpoet_statistics_unsubscribes
+0015.857 () Atomic restore: dropping original table (si_mailpoet_statistics_unsubscribes)
+0015.859 () Atomic restore: renaming new table (qa_mailpoet_statistics_unsubscribes) to final table name (si_mailpoet_statistics_unsubscribes)
+0015.894 () Processing table (InnoDB): wp_mailpoet_statistics_woocommerce_purchases - will restore as: qa_mailpoet_statistics_woocommerce_purchases
+0015.981 () Atomic restore: dropping original table (si_mailpoet_statistics_woocommerce_purchases)
+0015.984 () Atomic restore: renaming new table (qa_mailpoet_statistics_woocommerce_purchases) to final table name (si_mailpoet_statistics_woocommerce_purchases)
+0016.012 () Processing table (InnoDB): wp_mailpoet_stats_notifications - will restore as: qa_mailpoet_stats_notifications
+0016.091 () Atomic restore: dropping original table (si_mailpoet_stats_notifications)
+0016.093 () Atomic restore: renaming new table (qa_mailpoet_stats_notifications) to final table name (si_mailpoet_stats_notifications)
+0016.124 () Processing table (InnoDB): wp_mailpoet_subscriber_custom_field - will restore as: qa_mailpoet_subscriber_custom_field
+0016.192 () Atomic restore: dropping original table (si_mailpoet_subscriber_custom_field)
+0016.194 () Atomic restore: renaming new table (qa_mailpoet_subscriber_custom_field) to final table name (si_mailpoet_subscriber_custom_field)
+0016.224 () Processing table (InnoDB): wp_mailpoet_subscriber_ips - will restore as: qa_mailpoet_subscriber_ips
+0016.294 () Atomic restore: dropping original table (si_mailpoet_subscriber_ips)
+0016.297 () Atomic restore: renaming new table (qa_mailpoet_subscriber_ips) to final table name (si_mailpoet_subscriber_ips)
+0016.324 () Processing table (InnoDB): wp_mailpoet_subscriber_segment - will restore as: qa_mailpoet_subscriber_segment
+0016.429 () Atomic restore: dropping original table (si_mailpoet_subscriber_segment)
+0016.431 () Atomic restore: renaming new table (qa_mailpoet_subscriber_segment) to final table name (si_mailpoet_subscriber_segment)
+0016.462 () Processing table (InnoDB): wp_mailpoet_subscriber_tag - will restore as: qa_mailpoet_subscriber_tag
+0016.568 () Atomic restore: dropping original table (si_mailpoet_subscriber_tag)
+0016.573 () Atomic restore: renaming new table (qa_mailpoet_subscriber_tag) to final table name (si_mailpoet_subscriber_tag)
+0016.595 () Processing table (InnoDB): wp_mailpoet_subscribers - will restore as: qa_mailpoet_subscribers
+0016.724 () Atomic restore: dropping original table (si_mailpoet_subscribers)
+0016.726 () Atomic restore: renaming new table (qa_mailpoet_subscribers) to final table name (si_mailpoet_subscribers)
+0016.759 () Processing table (InnoDB): wp_mailpoet_tags - will restore as: qa_mailpoet_tags
+0016.898 () Atomic restore: dropping original table (si_mailpoet_tags)
+0016.901 () Atomic restore: renaming new table (qa_mailpoet_tags) to final table name (si_mailpoet_tags)
+0016.942 () Processing table (InnoDB): wp_mailpoet_user_agents - will restore as: qa_mailpoet_user_agents
+0017.018 () Atomic restore: dropping original table (si_mailpoet_user_agents)
+0017.020 () Atomic restore: renaming new table (qa_mailpoet_user_agents) to final table name (si_mailpoet_user_agents)
+0017.043 () Processing table (InnoDB): wp_mailpoet_user_flags - will restore as: qa_mailpoet_user_flags
+0017.114 () Atomic restore: dropping original table (si_mailpoet_user_flags)
+0017.116 () Atomic restore: renaming new table (qa_mailpoet_user_flags) to final table name (si_mailpoet_user_flags)
+0017.139 () Processing table (InnoDB): wp_smush_dir_images - will restore as: qa_smush_dir_images
+0017.230 () Atomic restore: dropping original table (si_smush_dir_images)
+0017.232 () Atomic restore: renaming new table (qa_smush_dir_images) to final table name (si_smush_dir_images)
+0017.264 () Processing table (InnoDB): wp_wc_admin_note_actions - will restore as: qa_wc_admin_note_actions
+0017.374 () Atomic restore: dropping original table (si_wc_admin_note_actions)
+0017.376 () Atomic restore: renaming new table (qa_wc_admin_note_actions) to final table name (si_wc_admin_note_actions)
+0017.400 () Processing table (InnoDB): wp_wc_admin_notes - will restore as: qa_wc_admin_notes
+0017.509 () Atomic restore: dropping original table (si_wc_admin_notes)
+0017.512 () Atomic restore: renaming new table (qa_wc_admin_notes) to final table name (si_wc_admin_notes)
+0017.543 () Processing table (InnoDB): wp_wc_customer_lookup - will restore as: qa_wc_customer_lookup
+0017.628 () Atomic restore: dropping original table (si_wc_customer_lookup)
+0017.630 () Atomic restore: renaming new table (qa_wc_customer_lookup) to final table name (si_wc_customer_lookup)
+0017.654 () Processing table (InnoDB): wp_wc_download_log - will restore as: qa_wc_download_log
+0017.740 () Atomic restore: dropping original table (si_wc_download_log)
+0017.742 () Atomic restore: renaming new table (qa_wc_download_log) to final table name (si_wc_download_log)
+0017.768 () Processing table (InnoDB): wp_wc_order_coupon_lookup - will restore as: qa_wc_order_coupon_lookup
+0017.863 () Atomic restore: dropping original table (si_wc_order_coupon_lookup)
+0017.864 () Atomic restore: renaming new table (qa_wc_order_coupon_lookup) to final table name (si_wc_order_coupon_lookup)
+0017.892 () Processing table (InnoDB): wp_wc_order_product_lookup - will restore as: qa_wc_order_product_lookup
+0017.999 () Atomic restore: dropping original table (si_wc_order_product_lookup)
+0018.003 () Atomic restore: renaming new table (qa_wc_order_product_lookup) to final table name (si_wc_order_product_lookup)
+0018.035 () Processing table (InnoDB): wp_wc_order_stats - will restore as: qa_wc_order_stats
+0018.133 () Atomic restore: dropping original table (si_wc_order_stats)
+0018.136 () Atomic restore: renaming new table (qa_wc_order_stats) to final table name (si_wc_order_stats)
+0018.163 () Processing table (InnoDB): wp_wc_order_tax_lookup - will restore as: qa_wc_order_tax_lookup
+0018.260 () Database queries processed: 250 in 18.16 seconds
+0018.263 () Atomic restore: dropping original table (si_wc_order_tax_lookup)
+0018.266 () Atomic restore: renaming new table (qa_wc_order_tax_lookup) to final table name (si_wc_order_tax_lookup)
+0018.300 () Processing table (InnoDB): wp_wc_product_attributes_lookup - will restore as: qa_wc_product_attributes_lookup
+0018.405 () Atomic restore: dropping original table (si_wc_product_attributes_lookup)
+0018.407 () Atomic restore: renaming new table (qa_wc_product_attributes_lookup) to final table name (si_wc_product_attributes_lookup)
+0018.431 () Processing table (InnoDB): wp_wc_product_download_directories - will restore as: qa_wc_product_download_directories
+0018.553 () Atomic restore: dropping original table (si_wc_product_download_directories)
+0018.559 () Atomic restore: renaming new table (qa_wc_product_download_directories) to final table name (si_wc_product_download_directories)
+0018.583 () Processing table (InnoDB): wp_wc_rate_limits - will restore as: qa_wc_rate_limits
+0018.658 () Atomic restore: dropping original table (si_wc_rate_limits)
+0018.661 () Atomic restore: renaming new table (qa_wc_rate_limits) to final table name (si_wc_rate_limits)
+0018.685 () Processing table (InnoDB): wp_wc_webhooks - will restore as: qa_wc_webhooks
+0018.767 () Atomic restore: dropping original table (si_wc_webhooks)
+0018.772 () Atomic restore: renaming new table (qa_wc_webhooks) to final table name (si_wc_webhooks)
+0018.800 () Processing table (InnoDB): wp_wcpdf_invoice_number - will restore as: qa_wcpdf_invoice_number
+0018.853 () Atomic restore: dropping original table (si_wcpdf_invoice_number)
+0018.857 () Atomic restore: renaming new table (qa_wcpdf_invoice_number) to final table name (si_wcpdf_invoice_number)
+0018.880 () Processing table (InnoDB): wp_wcpdf_packing_slip_number - will restore as: qa_wcpdf_packing_slip_number
+0018.923 () Atomic restore: dropping original table (si_wcpdf_packing_slip_number)
+0018.925 () Atomic restore: renaming new table (qa_wcpdf_packing_slip_number) to final table name (si_wcpdf_packing_slip_number)
+0018.947 () Processing table (InnoDB): wp_wfblockediplog - will restore as: qa_wfblockediplog
+0019.001 () Atomic restore: dropping original table (si_wfblockediplog)
+0019.007 () Atomic restore: renaming new table (qa_wfblockediplog) to final table name (si_wfblockediplog)
+0019.034 () Processing table (InnoDB): wp_wfblocks7 - will restore as: qa_wfblocks7
+0019.127 () Atomic restore: dropping original table (si_wfblocks7)
+0019.128 () Atomic restore: renaming new table (qa_wfblocks7) to final table name (si_wfblocks7)
+0019.151 () Processing table (InnoDB): wp_wfconfig - will restore as: qa_wfconfig
+0019.380 () Atomic restore: dropping original table (si_wfconfig)
+0019.383 () Atomic restore: renaming new table (qa_wfconfig) to final table name (si_wfconfig)
+0019.404 () Processing table (InnoDB): wp_wfcrawlers - will restore as: qa_wfcrawlers
+0019.506 () Atomic restore: dropping original table (si_wfcrawlers)
+0019.508 () Atomic restore: renaming new table (qa_wfcrawlers) to final table name (si_wfcrawlers)
+0019.542 () Processing table (InnoDB): wp_wffilechanges - will restore as: qa_wffilechanges
+0019.589 () Atomic restore: dropping original table (si_wffilechanges)
+0019.591 () Atomic restore: renaming new table (qa_wffilechanges) to final table name (si_wffilechanges)
+0019.613 () Processing table (InnoDB): wp_wffilemods - will restore as: qa_wffilemods
+0023.495 () Atomic restore: dropping original table (si_wffilemods)
+0023.496 () Atomic restore: renaming new table (qa_wffilemods) to final table name (si_wffilemods)
+0023.543 () Processing table (InnoDB): wp_wfhits - will restore as: qa_wfhits
+0023.742 () Atomic restore: dropping original table (si_wfhits)
+0023.745 () Atomic restore: renaming new table (qa_wfhits) to final table name (si_wfhits)
+0023.775 () Processing table (InnoDB): wp_wfhoover - will restore as: qa_wfhoover
+0023.879 () Atomic restore: dropping original table (si_wfhoover)
+0023.882 () Atomic restore: renaming new table (qa_wfhoover) to final table name (si_wfhoover)
+0023.930 () Processing table (InnoDB): wp_wfissues - will restore as: qa_wfissues
+0024.075 () Atomic restore: dropping original table (si_wfissues)
+0024.079 () Atomic restore: renaming new table (qa_wfissues) to final table name (si_wfissues)
+0024.116 () Processing table (InnoDB): wp_wfknownfilelist - will restore as: qa_wfknownfilelist
+0027.527 () Atomic restore: dropping original table (si_wfknownfilelist)
+0027.528 () Atomic restore: renaming new table (qa_wfknownfilelist) to final table name (si_wfknownfilelist)
+0027.545 () Processing table (InnoDB): wp_wflivetraffichuman - will restore as: qa_wflivetraffichuman
+0027.603 () Atomic restore: dropping original table (si_wflivetraffichuman)
+0027.605 () Atomic restore: renaming new table (qa_wflivetraffichuman) to final table name (si_wflivetraffichuman)
+0027.627 () Processing table (InnoDB): wp_wflocs - will restore as: qa_wflocs
+0027.674 () Atomic restore: dropping original table (si_wflocs)
+0027.675 () Atomic restore: renaming new table (qa_wflocs) to final table name (si_wflocs)
+0027.693 () Processing table (InnoDB): wp_wflogins - will restore as: qa_wflogins
+0027.900 () Atomic restore: dropping original table (si_wflogins)
+0027.903 () Atomic restore: renaming new table (qa_wflogins) to final table name (si_wflogins)
+0027.927 () Processing table (InnoDB): wp_wfls_2fa_secrets - will restore as: qa_wfls_2fa_secrets
+0027.978 () Atomic restore: dropping original table (si_wfls_2fa_secrets)
+0027.979 () Atomic restore: renaming new table (qa_wfls_2fa_secrets) to final table name (si_wfls_2fa_secrets)
+0027.999 () Processing table (MEMORY): wp_wfls_role_counts - will restore as: qa_wfls_role_counts
+0028.012 () Atomic restore: dropping original table (si_wfls_role_counts)
+0028.015 () Atomic restore: renaming new table (qa_wfls_role_counts) to final table name (si_wfls_role_counts)
+0028.022 () Processing table (InnoDB): wp_wfls_settings - will restore as: qa_wfls_settings
+0028.066 () Atomic restore: dropping original table (si_wfls_settings)
+0028.068 () Atomic restore: renaming new table (qa_wfls_settings) to final table name (si_wfls_settings)
+0028.087 () Processing table (InnoDB): wp_wfnotifications - will restore as: qa_wfnotifications
+0028.123 () Atomic restore: dropping original table (si_wfnotifications)
+0028.126 () Atomic restore: renaming new table (qa_wfnotifications) to final table name (si_wfnotifications)
+0028.141 () Processing table (InnoDB): wp_wfpendingissues - will restore as: qa_wfpendingissues
+0028.198 () Atomic restore: dropping original table (si_wfpendingissues)
+0028.201 () Atomic restore: renaming new table (qa_wfpendingissues) to final table name (si_wfpendingissues)
+0028.222 () Processing table (InnoDB): wp_wfreversecache - will restore as: qa_wfreversecache
+0028.271 () Atomic restore: dropping original table (si_wfreversecache)
+0028.273 () Atomic restore: renaming new table (qa_wfreversecache) to final table name (si_wfreversecache)
+0028.289 () Processing table (InnoDB): wp_wfsnipcache - will restore as: qa_wfsnipcache
+0028.353 () Atomic restore: dropping original table (si_wfsnipcache)
+0028.354 () Atomic restore: renaming new table (qa_wfsnipcache) to final table name (si_wfsnipcache)
+0028.376 () Processing table (InnoDB): wp_wfstatus - will restore as: qa_wfstatus
+0028.541 () Atomic restore: dropping original table (si_wfstatus)
+0028.543 () Atomic restore: renaming new table (qa_wfstatus) to final table name (si_wfstatus)
+0028.561 () Processing table (InnoDB): wp_wftrafficrates - will restore as: qa_wftrafficrates
+0028.595 () Atomic restore: dropping original table (si_wftrafficrates)
+0028.597 () Atomic restore: renaming new table (qa_wftrafficrates) to final table name (si_wftrafficrates)
+0028.611 () Processing table (InnoDB): wp_wfwaffailures - will restore as: qa_wfwaffailures
+0028.645 () Atomic restore: dropping original table (si_wfwaffailures)
+0028.648 () Atomic restore: renaming new table (qa_wfwaffailures) to final table name (si_wfwaffailures)
+0028.662 () Processing table (InnoDB): wp_woocommerce_api_keys - will restore as: qa_woocommerce_api_keys
+0028.731 () Atomic restore: dropping original table (si_woocommerce_api_keys)
+0028.734 () Atomic restore: renaming new table (qa_woocommerce_api_keys) to final table name (si_woocommerce_api_keys)
+0028.755 () Processing table (InnoDB): wp_woocommerce_attribute_taxonomies - will restore as: qa_woocommerce_attribute_taxonomies
+0028.809 () Atomic restore: dropping original table (si_woocommerce_attribute_taxonomies)
+0028.812 () Atomic restore: renaming new table (qa_woocommerce_attribute_taxonomies) to final table name (si_woocommerce_attribute_taxonomies)
+0028.881 () Processing table (InnoDB): wp_woocommerce_downloadable_product_permissions - will restore as: qa_woocommerce_downloadable_product_permissions
+0029.080 () Atomic restore: dropping original table (si_woocommerce_downloadable_product_permissions)
+0029.084 () Atomic restore: renaming new table (qa_woocommerce_downloadable_product_permissions) to final table name (si_woocommerce_downloadable_product_permissions)
+0029.107 () Processing table (InnoDB): wp_woocommerce_log - will restore as: qa_woocommerce_log
+0029.188 () Atomic restore: dropping original table (si_woocommerce_log)
+0029.190 () Atomic restore: renaming new table (qa_woocommerce_log) to final table name (si_woocommerce_log)
+0029.212 () Processing table (InnoDB): wp_woocommerce_order_items - will restore as: qa_woocommerce_order_items
+0029.286 () Atomic restore: dropping original table (si_woocommerce_order_items)
+0029.288 () Atomic restore: renaming new table (qa_woocommerce_order_items) to final table name (si_woocommerce_order_items)
+0029.303 () Processing table (InnoDB): wp_woocommerce_payment_tokens - will restore as: qa_woocommerce_payment_tokens
+0029.361 () Atomic restore: dropping original table (si_woocommerce_payment_tokens)
+0029.363 () Atomic restore: renaming new table (qa_woocommerce_payment_tokens) to final table name (si_woocommerce_payment_tokens)
+0029.383 () Processing table (InnoDB): wp_woocommerce_sessions - will restore as: qa_woocommerce_sessions
+0029.506 () Atomic restore: dropping original table (si_woocommerce_sessions)
+0029.507 () Atomic restore: renaming new table (qa_woocommerce_sessions) to final table name (si_woocommerce_sessions)
+0029.533 () Processing table (InnoDB): wp_woocommerce_shipping_zone_locations - will restore as: qa_woocommerce_shipping_zone_locations
+0029.589 () Atomic restore: dropping original table (si_woocommerce_shipping_zone_locations)
+0029.590 () Atomic restore: renaming new table (qa_woocommerce_shipping_zone_locations) to final table name (si_woocommerce_shipping_zone_locations)
+0029.609 () Processing table (InnoDB): wp_woocommerce_shipping_zone_methods - will restore as: qa_woocommerce_shipping_zone_methods
+0029.651 () Atomic restore: dropping original table (si_woocommerce_shipping_zone_methods)
+0029.653 () Atomic restore: renaming new table (qa_woocommerce_shipping_zone_methods) to final table name (si_woocommerce_shipping_zone_methods)
+0029.670 () Processing table (InnoDB): wp_woocommerce_shipping_zones - will restore as: qa_woocommerce_shipping_zones
+0029.707 () Atomic restore: dropping original table (si_woocommerce_shipping_zones)
+0029.708 () Atomic restore: renaming new table (qa_woocommerce_shipping_zones) to final table name (si_woocommerce_shipping_zones)
+0029.724 () Processing table (InnoDB): wp_woocommerce_tax_rate_locations - will restore as: qa_woocommerce_tax_rate_locations
+0029.778 () Atomic restore: dropping original table (si_woocommerce_tax_rate_locations)
+0029.781 () Atomic restore: renaming new table (qa_woocommerce_tax_rate_locations) to final table name (si_woocommerce_tax_rate_locations)
+0029.799 () Processing table (InnoDB): wp_woocommerce_tax_rates - will restore as: qa_woocommerce_tax_rates
+0029.863 () Atomic restore: dropping original table (si_woocommerce_tax_rates)
+0029.867 () Atomic restore: renaming new table (qa_woocommerce_tax_rates) to final table name (si_woocommerce_tax_rates)
+0029.889 () Processing table (InnoDB): wp_wpfm_backup - will restore as: qa_wpfm_backup
+0029.924 () Atomic restore: dropping original table (si_wpfm_backup)
+0029.925 () Atomic restore: renaming new table (qa_wpfm_backup) to final table name (si_wpfm_backup)
+0029.942 () Processing table (InnoDB): wp_wpforms_tasks_meta - will restore as: qa_wpforms_tasks_meta
+0031.537 () Unlocking database and leaving maintenance mode
+0031.538 () Disabling Maintenance mode&#8230;
+0031.538 () Atomic restore: dropping original table (si_wpforms_tasks_meta)
+0031.540 () Atomic restore: renaming new table (qa_wpforms_tasks_meta) to final table name (si_wpforms_tasks_meta)
+0031.559 () Finished: lines processed: 402 in 31.46 seconds
+0031.561 () Cleaning up rubbish...
+0031.562 () Begin search and replace (updraftplus_restored_db)
+0031.562 () [Database-replace-site-url] Database: search and replace site URL
+0031.562 () This option was not selected.
+0031.597 () Entity: plugins
+0031.598 () restore_backup(backup_file=backup_2024-05-17-1700_Sufsal_international_2f3a89780693-plugins.zip, type=plugins, info=a:3:{s:4:"path";s:56:"C:\wamp64\www\Own\sufsalInternational/wp-content/plugins";s:11:"description";s:7:"Plugins";s:20:"singular_description";s:6:"Plugin";}, last_one=)
+0031.600 () Unpacking backup... (backup_2024-05-17-1700_Sufsal_international_2f3a89780693-plugins.zip, 92.5 MB)
+0031.604 () Unzipping backup_2024-05-17-1700_Sufsal_international_2f3a89780693-plugins.zip to C:/wamp64/www/Own/sufsalInternational/wp-content/upgrade/534d575f/ using UpdraftPlus_ZipArchive, starting index 0
+0035.906 () Unzip progress: 4200 out of 20920 files (37.3 KB, plugins/3d-flipbook-dflip-lite/3d-flipbook-dflip-lite.php)
+0039.769 () Unzip progress: 5201 out of 20920 files (16.3 MB, plugins/all-in-one-seo-pack/vendor/woocommerce/action-scheduler/classes/ActionScheduler_LogEntry.php)
+0048.421 () Unzip progress: 6202 out of 20920 files (29.3 MB, plugins/duplicator/installer/dup-installer/assets/images/index.php)
+0061.400 () Unzip progress: 7203 out of 20920 files (47.2 MB, plugins/elementor/assets/js/editor-document.min.js)
+0077.058 () Unzip progress: 8111 out of 20920 files (72.5 MB, plugins/elementskit-lite/modules/controls/assets/js/widgetarea-inspactor.js)
+0090.835 () Unzip progress: 9112 out of 20920 files (104.8 MB, plugins/royal-elementor-addons/assets/css/library-frontend.min.css)
+0106.114 () Unzip progress: 9965 out of 20920 files (134.8 MB, plugins/updraftplus/restorer.php)
+0120.628 () Unzip progress: 10966 out of 20920 files (141.3 MB, plugins/w3-total-cache/Cdn_StackPath2_Widget_View_Unauthorized.php)
+0133.295 () Unzip progress: 11967 out of 20920 files (147.9 MB, plugins/w3-total-cache/vendor/aws/aws-sdk-php/src/CodeCommit/CodeCommitClient.php)
+0148.379 () Unzip progress: 12968 out of 20920 files (165.9 MB, plugins/w3-total-cache/vendor/aws/aws-sdk-php/src/IotDataPlane/Exception/IotDataPlaneException.php)
+0164.052 () Unzip progress: 13911 out of 20920 files (174.5 MB, plugins/woocommerce/assets/client/admin/product-editor/blocks/shipping-class/edit.js)
+0177.345 () Unzip progress: 14912 out of 20920 files (187.8 MB, plugins/woocommerce/includes/rest-api/Controllers/Version3/class-wc-rest-system-status-controller.php)
+0191.742 () Unzip progress: 15913 out of 20920 files (190.5 MB, plugins/woocommerce/packages/woocommerce-blocks/assets/js/blocks/checkout/inner-blocks/checkout-payment-block/attributes.tsx)
+0198.082 () Unzip progress: 16914 out of 20920 files (196.1 MB, plugins/woocommerce/packages/woocommerce-blocks/build/wc-payment-method-paypal.asset.php)
+0206.419 () Unzip progress: 17915 out of 20920 files (207 MB, plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php)
+0217.977 () Unzip progress: 18916 out of 20920 files (229 MB, plugins/woolentor-addons/assets/fonts/fontawesome-webfont.woff)
+0229.881 () Unzip progress: 19917 out of 20920 files (250.3 MB, plugins/wordfence/views/scanner/issue-spamvertizeCheck.php)
+0243.750 () Unzip progress: 20918 out of 20920 files (267.2 MB, plugins/wps-hide-login/vendor/composer/LICENSE)
+0243.792 () Unzip progress: 20920 out of 20920 files (267.2 MB, plugins/wps-hide-login/wps-hide-login.php)
+0243.808 () Moving old data: filesystem method / updraft_dir is potentially possible
+0243.809 () Moving old data: can potentially use wp_filesystem method / -old
+0243.809 () Moving old data out of the way...
+0244.437 () Top-level entities being moved: akismet, hello.php, index.php, updraftplus
+0244.453 () Moving unpacked backup into place...
+0255.764 () Top-level entities being moved: 3d-flipbook-dflip-lite, all-in-one-seo-pack, all-in-one-wp-migration, cf7-database, click-to-chat-for-whatsapp, colorlib-login-customizer, contact-form-7, country-phone-field-contact-form-7, duplicator, elementor, elementskit-lite, google-analytics-for-wordpress, hostinger, index.php, migrate-guru, royal-elementor-addons, updraftplus, w3-total-cache, wc-no-shipping-message, woocommerce, woocommerce-pdf-invoices-packing-slips, woolentor-addons, wordfence, wp-file-manager, wps-hide-login
+0255.835 () Cleaning up rubbish...
+0255.849 () Entity: themes
+0255.849 () restore_backup(backup_file=backup_2024-05-17-1700_Sufsal_international_2f3a89780693-themes.zip, type=themes, info=a:3:{s:4:"path";s:55:"C:\wamp64\www\Own\sufsalInternational/wp-content/themes";s:11:"description";s:6:"Themes";s:20:"singular_description";s:5:"Theme";}, last_one=)
+0255.850 () Unpacking backup... (backup_2024-05-17-1700_Sufsal_international_2f3a89780693-themes.zip, 3.7 MB)
+0255.851 () Unzipping backup_2024-05-17-1700_Sufsal_international_2f3a89780693-themes.zip to C:/wamp64/www/Own/sufsalInternational/wp-content/upgrade/05ff3e56/ using UpdraftPlus_ZipArchive, starting index 0
+0256.188 () Unzip progress: 201 out of 201 files (5.7 MB, themes/twentytwentythree/theme.json)
+0256.193 () Moving old data: filesystem method / updraft_dir is potentially possible
+0256.195 () Moving old data: can potentially use wp_filesystem method / -old
+0256.195 () Moving old data out of the way...
+0256.354 () Top-level entities being moved: index.php, twentytwentyfour, twentytwentythree, twentytwentytwo
+0256.364 () Moving unpacked backup into place...
+0256.453 () Top-level entities being moved: index.php, storepress, sufsal-international, twentytwentythree
+0256.464 () Cleaning up rubbish...
+0256.602 () Entity: uploads
+0256.602 () restore_backup(backup_file=backup_2024-05-17-1700_Sufsal_international_2f3a89780693-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:56:"C:\wamp64\www\Own\sufsalInternational/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0256.603 () Unpacking backup... (backup_2024-05-17-1700_Sufsal_international_2f3a89780693-uploads.zip, 89.1 MB)
+0256.606 () Unzipping backup_2024-05-17-1700_Sufsal_international_2f3a89780693-uploads.zip to C:/wamp64/www/Own/sufsalInternational/wp-content/upgrade/0d275254/ using UpdraftPlus_ZipArchive, starting index 0
+0260.094 () Unzip progress: 1002 out of 2191 files (14.1 MB, uploads/2022/12/1319-100x100.jpg)
+0264.002 () Unzip progress: 2003 out of 2191 files (60.6 MB, uploads/2023/01/Dental-Catalogue_win3-pdf-232x300.jpg)
+0264.743 () Unzip progress: 2191 out of 2191 files (93.3 MB, uploads/wpo_wcpdf_16bf65178a340849d4e74df123f5c3e1/fonts/Segoe-Normal.ufm)
+0264.749 () Moving old data: filesystem method / updraft_dir is potentially possible
+0264.750 () Moving old data: can potentially use wp_filesystem method / -old
+0264.750 () Moving old data out of the way...
+0264.756 () Moving unpacked backup into place...
+0265.619 () Cleaning up rubbish...
+0265.635 () Entity: others
+0265.635 () restore_backup(backup_file=backup_2024-05-17-1700_Sufsal_international_2f3a89780693-others.zip, type=others, info=a:2:{s:4:"path";s:48:"C:\wamp64\www\Own\sufsalInternational/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0265.636 () Unpacking backup... (backup_2024-05-17-1700_Sufsal_international_2f3a89780693-others.zip, 4.5 MB)
+0265.638 () Unzipping backup_2024-05-17-1700_Sufsal_international_2f3a89780693-others.zip to C:/wamp64/www/Own/sufsalInternational/wp-content/upgrade/d6c3f803/ using UpdraftPlus_ZipArchive, starting index 0
+0265.871 () Unzip progress: 81 out of 81 files (8.8 MB, wflogs/template.php)
+0265.894 () Cleaning up rubbish...
+0266.446 () Elementor's CSS directory exists, and will be emptied (so that it will be automatically regenerated)
+0266.473 () Restore successful!
+0266.473 () Restore successful
